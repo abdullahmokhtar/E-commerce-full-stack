@@ -48,11 +48,11 @@ function Product({ product, fav }) {
       (err) => {
           if (err.response.status === 401)
             toast.error("You must login before adding product to cart");
-          else toast.error(err.response.data);
+          else toast.error(err?.response?.data);
       }
     );
     if (response) {
-      toast.success(response.data);
+      toast.success(response?.data);
     }
   };
   return (
@@ -90,12 +90,14 @@ function Product({ product, fav }) {
               onClick={removeProductFromWishlist}
               style={{ color: "red" }}
               className="fa-solid fa-heart h3"
+              role="button"
             ></i>
           ) : (
             <i
               onClick={addProductToWishlist}
               style={{ color: "black" }}
               className="fa-solid fa-heart h3"
+              role="button"
             ></i>
           )}
         </div>

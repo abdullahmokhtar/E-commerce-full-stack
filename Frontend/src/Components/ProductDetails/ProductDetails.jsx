@@ -22,7 +22,7 @@ const ProductDetails = () => {
   });
 
   const fav = wishlist?.filter((pro) => pro.id === id);
-  const [isFav, setIsFav] = useState(fav);
+  const [isFav, setIsFav] = useState(false);
 
   const addProductToCart = async () => {
     const response = await addProdToCart({ productId: id }).catch((err) => {
