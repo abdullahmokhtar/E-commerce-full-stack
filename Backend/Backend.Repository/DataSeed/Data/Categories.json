@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Music",
+    "Slug": "music",
+    "Image": "1681511964020.jpeg",
+    "CreatedAt": "2023-04-14T22:39:24.365Z"
+  },
+  {
+    "Name": "Men's Fashion",
+    "Slug": "men's-fashion",
+    "Image": "1681511865180.jpeg",
+    "CreatedAt": "2023-04-14T22:37:45.627Z"
+  },
+  {
+    "Name": "Women's Fashion",
+    "Slug": "women's-fashion",
+    "Image": "1681511818071.jpeg",
+    "CreatedAt": "2023-04-14T22:36:58.118Z"
+  },
+  {
+    "Name": "SuperMarket",
+    "Slug": "supermarket",
+    "Image": "1681511452254.png",
+    "CreatedAt": "2023-04-14T22:30:52.311Z"
+  },
+  {
+    "Name": "Baby & Toys",
+    "Slug": "baby-and-toys",
+    "Image": "1681511427130.png",
+    "CreatedAt": "2023-04-14T22:30:27.166Z"
+  },
+  {
+    "Name": "Home",
+    "Slug": "home",
+    "Image": "1681511392672.png",
+    "CreatedAt": "2023-04-14T22:29:52.763Z"
+  },
+  {
+    "Name": "Books",
+    "Slug": "books",
+    "Image": "1681511368164.png",
+    "CreatedAt": "2023-04-14T22:29:28.200Z"
+  },
+  {
+    "Name": "Beauty & Health",
+    "Slug": "beauty-and-health",
+    "Image": "1681511179514.png",
+    "CreatedAt": "2023-04-14T22:26:19.587Z"
+  },
+  {
+    "Name": "Mobiles",
+    "Slug": "mobiles",
+    "Image": "1681511156008.png",
+    "CreatedAt": "2023-04-14T22:25:56.071Z"
+  },
+  {
+    "Name": "Electronics",
+    "Slug": "electronics",
+    "Image": "1681511121316.png",
+    "CreatedAt": "2023-04-14T22:25:21.783Z"
+  }
+]

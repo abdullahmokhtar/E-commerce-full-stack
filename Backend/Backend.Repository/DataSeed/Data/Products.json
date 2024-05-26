@@ -1,0 +1,2140 @@
+[
+  {
+    "Sold": 4972,
+    "Images": [
+      "1680403397482-1.jpeg",
+      "1680403397482-2.jpeg",
+      "1680403397483-3.jpeg",
+      "1680403397485-4.jpeg"
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 18,
+    "Name": "Woman Shawl",
+    "Slug": "woman-shawl",
+    "Description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+    "Quantity": 225,
+    "Price": 160,
+    "ImageCover": "1680403397402-cover.jpeg",
+    "BrandId": 23,
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:43:18.400Z"
+  },
+  {
+    "Sold": 8519,
+    "Images": [
+      "1680403266805-1.jpeg",
+      "1680403266806-3.jpeg",
+      "1680403266806-2.jpeg",
+      "1680403266807-4.jpeg"
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 18,
+    "Name": "Woman Shawl",
+    "Slug": "woman-shawl",
+    "Description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+    "Quantity": 220,
+    "Price": 149,
+    "ImageCover": "1680403266739-cover.jpeg",
+    "BrandId": 23,
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:41:07.506Z"
+  },
+  {
+    "Sold": 9697,
+    "Images": [
+      "1680403156555-3.jpeg",
+      "1680403156555-2.jpeg",
+      "1680403156554-1.jpeg",
+      "1680403156556-4.jpeg"
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 18,
+    "Name": "Woman Shawl",
+    "Slug": "woman-shawl",
+    "Description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+    "Quantity": 220,
+    "Price": 149,
+    "ImageCover": "1680403156501-cover.jpeg",
+    "BrandId": 23,
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:39:17.204Z"
+  },
+  {
+    "Sold": 6410,
+    "Images": [
+      "1680402838330-1.jpeg",
+      "1680402838331-3.jpeg",
+      "1680402838332-4.jpeg",
+      "1680402838331-2.jpeg",
+      "1680402838332-5.jpeg"
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 18,
+    "Name": "Woman Shawl",
+    "Slug": "woman-shawl",
+    "Description": "Material\tPolyester Blend\nColour Name\tMulticolour\nDepartment\tWomen",
+    "Quantity": 220,
+    "Price": 149,
+    "ImageCover": "1680402838276-cover.jpeg",
+    "BrandId": 23,
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:33:59.274Z"
+  },
+  {
+    "Sold": 3666,
+    "Images": [
+      "1680402563676-2.jpeg",
+      "1680402563676-3.jpeg",
+      "1680402563677-4.jpeg",
+      "1680402563675-1.jpeg",
+      "1680402563677-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 10,
+    "Name": "Woman Shawl",
+    "Slug": "woman-shawl",
+    "Description": "Material\tPolyester Blend\nColour Name\tBeige\nDepartment\tWomen",
+    "Quantity": 228,
+    "Price": 349,
+    "ImageCover": "1680402563605-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.2,
+    "CreatedAt": "2023-04-02T02:29:24.696Z",
+    "updatedAt": "2024-05-15T14:28:36.215Z",
+    "id": "6428e884dc1175abc65ca096"
+  },
+  {
+    "Sold": 3596,
+    "Images": [
+      "1680402411883-2.jpeg",
+      "1680402411883-3.jpeg",
+      "1680402411883-1.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 10,
+    "Name": "Woman Bordeaux Long Sleeve Blouse BORDEAUX",
+    "Slug": "woman-bordeaux-long-sleeve-blouse-bordeaux",
+    "Description": "ShellFabric1 Cotton 65% Polyester 35%",
+    "Quantity": 228,
+    "Price": 499,
+    "PriceAfterDiscount": 349,
+    "ImageCover": "1680402411833-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.2,
+    "CreatedAt": "2023-04-02T02:26:52.509Z",
+    "updatedAt": "2024-05-15T14:28:36.215Z",
+    "id": "6428e7ecdc1175abc65ca090"
+  },
+  {
+    "Sold": 2249,
+    "Images": [
+      "1680402296306-3.jpeg",
+      "1680402296305-1.jpeg",
+      "1680402296305-2.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 5,
+    "Name": "Woman Brown Long Sleeve Tunic LT.CAMEL",
+    "Slug": "woman-brown-long-sleeve-tunic-lt.camel",
+    "Description": "ShellFabric1 Cotton 65% Polyester 35%",
+    "Quantity": 229,
+    "Price": 499,
+    "PriceAfterDiscount": 359,
+    "ImageCover": "1680402295928-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.7,
+    "CreatedAt": "2023-04-02T02:24:56.975Z",
+    "updatedAt": "2024-05-14T20:16:37.777Z",
+    "id": "6428e778dc1175abc65ca08a"
+  },
+  {
+    "Sold": 2410,
+    "Images": [
+      "1680401893496-2.jpeg",
+      "1680401893496-1.jpeg",
+      "1680401893497-4.jpeg",
+      "1680401893496-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 5,
+    "Name": "Woman Standart Fit Knitted Cardigan",
+    "Slug": "woman-standart-fit-knitted-cardigan",
+    "Description": "Material\tPolyester Blend\nColour Name\tBeige\nDepartment\tWomen",
+    "Quantity": 222,
+    "Price": 499,
+    "PriceAfterDiscount": 449,
+    "ImageCover": "1680401893316-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:18:14.346Z",
+    "updatedAt": "2024-05-14T20:16:37.777Z",
+    "id": "6428e5e6dc1175abc65ca084"
+  },
+  {
+    "Sold": 2400,
+    "Images": [
+      "1680401672624-2.jpeg",
+      "1680401672623-1.jpeg",
+      "1680401672624-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 5,
+    "Name": "Relaxed Fit Knitted Joggers Lilac",
+    "Slug": "relaxed-fit-knitted-joggers-lilac",
+    "Description": "Colour Name\tPink\nDepartment\tWomen\nMaterial Composition\tPolyester Blend",
+    "Quantity": 222,
+    "Price": 499,
+    "PriceAfterDiscount": 189,
+    "ImageCover": "1680401672268-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T02:14:33.277Z",
+    "updatedAt": "2024-05-14T21:15:14.094Z",
+    "id": "6428e509dc1175abc65ca07e"
+  },
+  {
+    "Sold": 2676,
+    "Images": ["1680401528923-1.jpeg", "1680401528924-2.jpeg"],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 6,
+    "Name": "Woman Socks",
+    "Slug": "woman-socks",
+    "Description": "Colour Name\tPink\nDepartment\tWomen\nMaterial Composition\tPolyester Blend",
+    "Quantity": 117,
+    "Price": 199,
+    "ImageCover": "1680401528864-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-04-02T02:12:09.566Z",
+    "updatedAt": "2024-05-14T22:50:46.730Z",
+    "id": "6428e479dc1175abc65ca078"
+  },
+  {
+    "Sold": 2200,
+    "Images": [
+      "1680401176767-2.jpeg",
+      "1680401176766-1.jpeg",
+      "1680401176768-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f1bcb575d3b90bf95797",
+        "name": "Women's Clothing",
+        "Slug": "women's-clothing",
+        "category": "6439d58a0049ad0b52b9003f"
+      }
+    ],
+    "CategoryId": 3,
+    "RatingsQuantity": 6,
+    "Name": "Woman Karma Socks Multicolour",
+    "Slug": "woman-karma-socks-multicolour",
+    "Description": "Soft and comfortable cotton fabric\nCrew neck and short sleeves\nComfortable, regular fit\nWash according to care label instructions",
+    "Quantity": 117,
+    "Price": 199,
+    "ImageCover": "1680401176411-cover.jpeg",
+    "category": {
+      "_id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "Slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+    },
+    "BrandId": 23,
+    "brand": {
+      "_id": "64089bbe24b25627a253158b",
+      "name": "DeFacto",
+      "Slug": "defacto",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-04-02T02:06:17.489Z",
+    "updatedAt": "2024-05-15T14:28:36.215Z",
+    "id": "6428e319dc1175abc65ca06d"
+  },
+  {
+    "Sold": 1700,
+    "Images": [
+      "1680400287765-1.jpeg",
+      "1680400287767-4.jpeg",
+      "1680400287767-3.jpeg",
+      "1680400287765-2.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 6,
+    "Name": "Logo T-Shirt Green",
+    "Slug": "logo-t-shirt-green",
+    "Description": "Soft and comfortable cotton fabric\nCrew neck and short sleeves\nComfortable, regular fit\nWash according to care label instructions",
+    "Quantity": 111,
+    "Price": 744,
+    "PriceAfterDiscount": 379,
+    "ImageCover": "1680400287654-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 14,
+    "brand": {
+      "_id": "64089dc924b25627a25315a8",
+      "name": "Jack & Jones",
+      "Slug": "jack-and-jones",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286281363.png"
+    },
+    "RatingsAverage": 2,
+    "CreatedAt": "2023-04-02T01:51:28.886Z",
+    "updatedAt": "2024-05-15T06:13:03.018Z",
+    "id": "6428dfa0dc1175abc65ca067"
+  },
+  {
+    "Sold": 937,
+    "Images": [
+      "1680400120770-2.jpeg",
+      "1680400120771-3.jpeg",
+      "1680400120769-1.jpeg",
+      "1680400120771-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 14,
+    "Name": "Orca Leather Boots Anthracite",
+    "Slug": "orca-leather-boots-anthracite",
+    "Description": "Genuine and smooth leather upper\nSecure lace-ups with side zipper closure\nSlightly cushioned footbed provides comfort\nPatterned chunky outsole provides traction and grip",
+    "Quantity": 273,
+    "Price": 4829,
+    "PriceAfterDiscount": 3064,
+    "ImageCover": "1680400120400-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 14,
+    "brand": {
+      "_id": "64089dc924b25627a25315a8",
+      "name": "Jack & Jones",
+      "Slug": "jack-and-jones",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286281363.png"
+    },
+    "RatingsAverage": 4.9,
+    "CreatedAt": "2023-04-02T01:48:41.533Z",
+    "updatedAt": "2024-05-14T22:45:18.597Z",
+    "id": "6428def9dc1175abc65ca061"
+  },
+  {
+    "Sold": 1262,
+    "Images": [
+      "1680399913850-1.jpeg",
+      "1680399913851-4.jpeg",
+      "1680399913850-2.jpeg",
+      "1680399913851-3.jpeg",
+      "1680399913851-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 20,
+    "Name": "Softride Enzo NXT CASTLEROCK-High Risk R",
+    "Slug": "softride-enzo-nxt-castlerock-high-risk-r",
+    "Description": "Sole Material\tRubber\nColour Name\tRED\nDepartment\tMen",
+    "Quantity": 173,
+    "Price": 2999,
+    "ImageCover": "1680399913757-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 17,
+    "brand": {
+      "_id": "64089d5c24b25627a253159f",
+      "name": "Puma",
+      "Slug": "puma",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286172219.png"
+    },
+    "RatingsAverage": 2.8,
+    "CreatedAt": "2023-04-02T01:45:14.676Z",
+    "updatedAt": "2024-05-14T22:45:18.597Z",
+    "id": "6428de2adc1175abc65ca05b"
+  },
+  {
+    "Sold": 1447,
+    "Images": [
+      "1680399661306-2.jpeg",
+      "1680399661306-4.jpeg",
+      "1680399661306-3.jpeg",
+      "1680399661305-1.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 20,
+    "Name": "ESS Big Logo Hoodie TR Puma Black",
+    "Slug": "ess-big-logo-hoodie-tr-puma-black",
+    "Description": "Material\tCombination\nColour Name\tblack\nDepartment\tMen",
+    "Quantity": 200,
+    "Price": 2649,
+    "PriceAfterDiscount": 2599,
+    "ImageCover": "1680399661234-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 17,
+    "brand": {
+      "_id": "64089d5c24b25627a253159f",
+      "name": "Puma",
+      "Slug": "puma",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286172219.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T01:41:02.053Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428dd2edc1175abc65ca055"
+  },
+  {
+    "Sold": 1141,
+    "Images": [
+      "1680396593909-2.jpeg",
+      "1680396593909-1.jpeg",
+      "1680396593909-3.jpeg",
+      "1680396593910-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 20,
+    "Name": "Sportswear Club Graphic Hoodie Blue",
+    "Slug": "sportswear-club-graphic-hoodie-blue",
+    "Description": "Soft and lightweight knitted fabric\nKangaroo pocket to front\nWash according to care label instructions\nNike signature branding detail",
+    "Quantity": 158,
+    "Price": 2449,
+    "PriceAfterDiscount": 1474,
+    "ImageCover": "1680396593789-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-04-02T00:49:54.825Z",
+    "updatedAt": "2024-05-14T16:30:46.420Z",
+    "id": "6428d132dc1175abc65ca04f"
+  },
+  {
+    "Sold": 900,
+    "Images": [
+      "1680396038346-1.jpeg",
+      "1680396038347-2.jpeg",
+      "1680396038348-4.jpeg",
+      "1680396038347-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 20,
+    "Name": "NSW Everyday Essentials No-Show Socks (Pack of 3) White/Black",
+    "Slug": "nsw-everyday-essentials-no-show-socks-(pack-of-3)-whiteblack",
+    "Description": "Socks are highly comfort, stretchable and will manage moisture\nRibbed elasticated mouths that ensure snug fitting\nElasticated leg band which ensures easy wearability\nCarefully stitched to lend a neat finish\nThick terry sole provides comfort and impact absorption",
+    "Quantity": 150,
+    "Price": 1079,
+    "PriceAfterDiscount": 634,
+    "ImageCover": "1680396038304-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 4.2,
+    "CreatedAt": "2023-04-02T00:40:39.312Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428cf07dc1175abc65ca049"
+  },
+  {
+    "Sold": 779,
+    "Images": [
+      "1680395860011-4.jpeg",
+      "1680395860011-2.jpeg",
+      "1680395860010-1.jpeg",
+      "1680395860011-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 17,
+    "Name": "Court Tennis Track Pants Black",
+    "Slug": "court-tennis-track-pants-black",
+    "Description": "Soft and sustainable polyester fabric\nElastic waist for comfortable fit\nMultiple pockets for quick storage\nWash according to care label instructions\nNike signature branding detail",
+    "Quantity": 170,
+    "Price": 3159,
+    "PriceAfterDiscount": 2199,
+    "ImageCover": "1680395859874-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 2.8,
+    "CreatedAt": "2023-04-02T00:37:41.008Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428ce55dc1175abc65ca043"
+  },
+  {
+    "Sold": 683,
+    "Images": [
+      "1680395632039-1.jpeg",
+      "1680395632040-2.jpeg",
+      "1680395632041-4.jpeg",
+      "1680395632040-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 20,
+    "Name": "React Live Sneakers Black/White-Dk Smoke Grey",
+    "Slug": "react-live-sneakers-blackwhite-dk-smoke-grey",
+    "Description": "Comfortable and soft cotton blend fabric\nRibbed crew neck and short sleeves\nadidas signature branding print\nWash according to care label instructions",
+    "Quantity": 120,
+    "Price": 4639,
+    "PriceAfterDiscount": 3759,
+    "ImageCover": "1680395631938-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 3.7,
+    "CreatedAt": "2023-04-02T00:33:52.861Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428cd70dc1175abc65ca03d"
+  },
+  {
+    "Sold": 43674,
+    "Images": [
+      "1680395220690-1.jpeg",
+      "1680395220693-3.jpeg",
+      "1680395220692-2.jpeg",
+      "1680395220713-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 19,
+    "Name": "Essentials Embroidered Linear Logo T-Shirt Navy",
+    "Slug": "essentials-embroidered-linear-logo-t-shirt-navy",
+    "Description": "Comfortable and soft cotton blend fabric\nRibbed crew neck and short sleeves\nadidas signature branding print\nWash according to care label instructions",
+    "Quantity": 118,
+    "Price": 749,
+    "PriceAfterDiscount": 504,
+    "ImageCover": "1680395220407-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 3.8,
+    "CreatedAt": "2023-04-02T00:27:01.864Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428cbd5dc1175abc65ca037"
+  },
+  {
+    "Sold": 589,
+    "Images": [
+      "1680395033000-2.jpeg",
+      "1680395032999-1.jpeg",
+      "1680395033000-3.jpeg",
+      "1680395033000-4.jpeg",
+      "1680395033001-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 17,
+    "Name": "Salah Track Top",
+    "Slug": "salah-track-top",
+    "Description": "Material\tCotton Blend\nColour Name\tnight indigo\nDepartment\tMen",
+    "Quantity": 110,
+    "Price": 1749,
+    "PriceAfterDiscount": 1094,
+    "ImageCover": "1680395032949-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 3.2,
+    "CreatedAt": "2023-04-02T00:23:53.765Z",
+    "updatedAt": "2024-05-13T18:01:21.780Z",
+    "id": "6428cb19dc1175abc65ca031"
+  },
+  {
+    "Sold": 612,
+    "Images": [
+      "1680394855240-2.jpeg",
+      "1680394855240-3.jpeg",
+      "1680394855239-1.jpeg",
+      "1680394855240-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 13,
+    "Name": "Adicolor Classics Beckenbauer Primeblue Track Top",
+    "Slug": "adicolor-classics-beckenbauer-primeblue-track-top",
+    "Description": "Material\tCotton Blend\nColour Name\tnight indigo\nDepartment\tMen",
+    "Quantity": 120,
+    "Price": 2379,
+    "ImageCover": "1680394855158-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 3.8,
+    "CreatedAt": "2023-04-02T00:20:56.323Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428ca68dc1175abc65ca02b"
+  },
+  {
+    "Sold": 682,
+    "Images": [
+      "1680394593459-1.jpeg",
+      "1680394593460-2.jpeg",
+      "1680394593460-3.jpeg",
+      "1680394593461-4.jpeg",
+      "1680394593462-6.jpeg",
+      "1680394593461-5.jpeg",
+      "1680394593462-7.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 13,
+    "Name": "Duramo 10 Running Shoes",
+    "Slug": "duramo-10-running-shoes",
+    "Description": "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole.\n",
+    "Quantity": 150,
+    "Price": 1999,
+    "PriceAfterDiscount": 1314,
+    "ImageCover": "1680394593396-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 3.8,
+    "CreatedAt": "2023-04-02T00:16:34.330Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428c962dc1175abc65ca025"
+  },
+  {
+    "Sold": 409,
+    "Images": [
+      "1680393896545-3.jpeg",
+      "1680393896545-2.jpeg",
+      "1680393896546-4.jpeg",
+      "1680393896544-1.jpeg",
+      "1680393896546-7.jpeg",
+      "1680393896546-6.jpeg",
+      "1680393896546-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 2,
+    "Name": "Hoops 3.0 Low Classic Vintage Shoes",
+    "Slug": "hoops-3.0-low-classic-vintage-shoes",
+    "Description": "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole.\n",
+    "Quantity": 70,
+    "Price": 1629,
+    "ImageCover": "1680393896493-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 4.5,
+    "CreatedAt": "2023-04-02T00:04:57.368Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428c6a9dc1175abc65ca01f"
+  },
+  {
+    "Sold": 310,
+    "Images": [
+      "1680393655128-2.jpeg",
+      "1680393655128-1.jpeg",
+      "1680393655129-3.jpeg",
+      "1680393655129-4.jpeg",
+      "1680393655132-7.jpeg",
+      "1680393655130-5.jpeg",
+      "1680393655131-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 1,
+    "Name": "Galaxy 6 Running Shoes",
+    "Slug": "galaxy-6-running-shoes",
+    "Description": "Material\tCotton Blend\nColour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 64% Cotton 36% Polyester\nItem Pack Quantity\tSingle\nPack Size\tSingle\nModel Number\tW21770Z8-S7N-823090\nModel Name\tW21770Z8-S7N-823090",
+    "Quantity": 60,
+    "Price": 1629,
+    "ImageCover": "1680393655068-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 21,
+    "brand": {
+      "_id": "64089c3924b25627a2531593",
+      "name": "Adidas",
+      "Slug": "adidas",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+    },
+    "RatingsAverage": 5,
+    "CreatedAt": "2023-04-02T00:00:55.928Z",
+    "updatedAt": "2024-05-06T17:24:44.238Z",
+    "id": "6428c5b7dc1175abc65ca019"
+  },
+  {
+    "Sold": 368,
+    "Images": [
+      "1680393143751-1.jpeg",
+      "1680393143752-3.jpeg",
+      "1680393143752-2.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 3,
+    "Name": "Slim Fit Long Sleeve Dobby Men's Shirt",
+    "Slug": "slim-fit-long-sleeve-dobby-men's-shirt",
+    "Description": "Material\tCotton Blend\nColour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 64% Cotton 36% Polyester\nItem Pack Quantity\tSingle\nPack Size\tSingle\nModel Number\tW21770Z8-S7N-823090\nModel Name\tW21770Z8-S7N-823090",
+    "Quantity": 60,
+    "Price": 549,
+    "PriceAfterDiscount": 343,
+    "ImageCover": "1680393143423-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 4.7,
+    "CreatedAt": "2023-04-01T23:52:24.326Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428c3b8dc1175abc65ca00e"
+  },
+  {
+    "Sold": 425,
+    "Images": [
+      "1680392991339-2.jpeg",
+      "1680392991339-1.jpeg",
+      "1680392991340-4.jpeg",
+      "1680392991340-3.jpeg",
+      "1680392991341-5.jpeg",
+      "1680392991341-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 3,
+    "Name": "Crew Neck Long Sleeve Men's Knitwear Sweater",
+    "Slug": "crew-neck-long-sleeve-men's-knitwear-sweater",
+    "Description": "Material\tCotton\nColour Name\tNAVY\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 100% Cotton",
+    "Quantity": 50,
+    "Price": 449,
+    "PriceAfterDiscount": 330,
+    "ImageCover": "1680392991271-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 4.7,
+    "CreatedAt": "2023-04-01T23:49:52.387Z",
+    "updatedAt": "2024-05-14T17:59:32.494Z",
+    "id": "6428c320dc1175abc65ca008"
+  },
+  {
+    "Sold": 325,
+    "Images": [
+      "1680392445792-2.jpeg",
+      "1680392445792-3.jpeg",
+      "1680392445792-1.jpeg",
+      "1680392445793-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 3,
+    "Name": "Crew Neck Long Sleeve Striped Men's Tricot Sweater",
+    "Slug": "crew-neck-long-sleeve-striped-men's-tricot-sweater",
+    "Description": "Tricot fabric, Tricot fabric, Ribbed ankles and bottom\nWASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN\n",
+    "Quantity": 100,
+    "Price": 599,
+    "PriceAfterDiscount": 539,
+    "ImageCover": "1680392445443-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 2,
+    "CreatedAt": "2023-04-01T23:40:46.486Z",
+    "updatedAt": "2024-05-13T18:59:03.196Z",
+    "id": "6428c0fedc1175abc65c9ffd"
+  },
+  {
+    "Sold": 405,
+    "Images": [
+      "1680392258020-2.jpeg",
+      "1680392258021-3.jpeg",
+      "1680392258020-1.jpeg",
+      "1680392258021-4.jpeg",
+      "1680392258022-7.jpeg",
+      "1680392258021-6.jpeg",
+      "1680392258021-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 3,
+    "Name": "Crew Neck Long Sleeve Men's Tricot Sweater with Color Block",
+    "Slug": "crew-neck-long-sleeve-men's-tricot-sweater-with-color-block",
+    "Description": "Tricot fabric, Tricot fabric, Ribbed ankles and bottom\nWASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN\n",
+    "Quantity": 500,
+    "Price": 549,
+    "PriceAfterDiscount": 321,
+    "ImageCover": "1680392257974-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 5,
+    "CreatedAt": "2023-04-01T23:37:38.808Z",
+    "updatedAt": "2024-05-11T16:00:32.013Z",
+    "id": "6428c042dc1175abc65c9ff7"
+  },
+  {
+    "Sold": 296,
+    "Images": [
+      "1680391999434-1.jpeg",
+      "1680391999434-2.jpeg",
+      "1680391999435-3.jpeg",
+      "1680391999435-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 16,
+    "Name": "Polo Collar Short Sleeve Color Block Men's Knitwear Sweater",
+    "Slug": "polo-collar-short-sleeve-color-block-men's-knitwear-sweater",
+    "Description": "100% cotton fabric",
+    "Quantity": 360,
+    "Price": 349,
+    "ImageCover": "1680391999270-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 3,
+    "CreatedAt": "2023-04-01T23:33:20.197Z",
+    "updatedAt": "2024-05-12T15:51:36.031Z",
+    "id": "6428bf40dc1175abc65c9ff1"
+  },
+  {
+    "Sold": 227,
+    "Images": [
+      "1680391722627-2.jpeg",
+      "1680391722628-3.jpeg",
+      "1680391722626-1.jpeg",
+      "1680391722628-4.jpeg",
+      "1680391722628-5.jpeg",
+      "1680391722628-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 16,
+    "Name": "Crew Neck Long Sleeve Striped Men's Knitwear Sweater",
+    "Slug": "crew-neck-long-sleeve-striped-men's-knitwear-sweater",
+    "Description": "Colour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 100% Cotton\nLining Material\tCotton\nModel Number\tW20952Z8-CTD\nModel Name\tW20952Z8-CTD",
+    "Quantity": 300,
+    "Price": 549,
+    "PriceAfterDiscount": 355,
+    "ImageCover": "1680391722468-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 3,
+    "CreatedAt": "2023-04-01T23:28:43.578Z",
+    "updatedAt": "2024-05-13T18:59:03.196Z",
+    "id": "6428be2bdc1175abc65c9fe6"
+  },
+  {
+    "Sold": 257,
+    "Images": [
+      "1680391434704-2.jpeg",
+      "1680391434704-1.jpeg",
+      "1680391434705-3.jpeg",
+      "1680391434706-4.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 7,
+    "Name": "Standard Pattern Plaid Fleece Men's Pajamas Set",
+    "Slug": "standard-pattern-plaid-fleece-men's-pajamas-set",
+    "Description": "Material\tPolyester\nColour Name\tMulticolour\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 100% Polyester\nModel Number\tW2BK93Z8-RQN\nModel Name\tW2BK93Z8-RQN-BLACK",
+    "Quantity": 200,
+    "Price": 699,
+    "PriceAfterDiscount": 456,
+    "ImageCover": "1680391434638-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 2.7,
+    "CreatedAt": "2023-04-01T23:23:55.488Z",
+    "updatedAt": "2024-05-10T19:09:47.030Z",
+    "id": "6428bd0bdc1175abc65c9fdb"
+  },
+  {
+    "Sold": 344,
+    "Images": [
+      "1680391133904-1.jpeg",
+      "1680391133905-2.jpeg",
+      "1680391133905-3.jpeg",
+      "1680391133906-4.jpeg",
+      "1680391133907-6.jpeg",
+      "1680391133907-7.jpeg",
+      "1680391133906-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f243b575d3b90bf957ac",
+        "name": "Men's Clothing",
+        "Slug": "men's-clothing",
+        "category": "6439d5b90049ad0b52b90048"
+      }
+    ],
+
+    "RatingsQuantity": 6,
+    "Name": "Slim Fit Stand Collar Men's Leather Look Coat",
+    "Slug": "slim-fit-stand-collar-men's-leather-look-coat",
+    "Description": "Colour Name\tBlack\nDepartment\tMen\nModel Number\tW21199Z8-CVL\nModel Name\tW21199Z8-CVL",
+    "Quantity": 200,
+    "Price": 1499,
+    "PriceAfterDiscount": 874,
+    "ImageCover": "1680391133207-cover.jpeg",
+    "CategoryId": 2,
+    "category": {
+      "_id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "Slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+    },
+    "BrandId": 15,
+    "brand": {
+      "_id": "64089d9e24b25627a25315a5",
+      "name": "LC Waikiki",
+      "Slug": "lc-waikiki",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+    },
+    "RatingsAverage": 2.6,
+    "CreatedAt": "2023-04-01T23:18:54.840Z",
+    "updatedAt": "2024-05-12T11:59:30.563Z",
+    "id": "6428bbdedc1175abc65c9fce"
+  },
+  {
+    "Sold": 644,
+    "Images": [
+      "1678305677267-3.jpeg",
+      "1678305677267-4.jpeg",
+      "1678305677266-1.jpeg",
+      "1678305677266-2.jpeg",
+      "1678305677267-5.jpeg",
+      "1678305677268-6.jpeg",
+      "1678305677268-7.jpeg",
+      "1678305677268-8.jpeg",
+      "1678305677269-9.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3e3b575d3b90bf957f1",
+        "name": "Networking Products",
+        "Slug": "networking-products",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 200,
+    "Name": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+    "Slug": "archer-vr300-ac1200-wireless-vdsladsl-modem-router-black",
+    "Description": "Parental Controls: manage responsible internet access for your children\nGuest Network|: provides separate access for guests while securing the home network\nFirewall Security: supports DoS, SPI Firewall, IP Addressing/Domain Filter, IP/MAC Address Binding\nQuality of Service: prioritizes network traffic by device or application, IPv6: compatible with IPv6 (Internet Protocol version 6)\nIPTV IGMP Proxy/Snooping: supports Bridge and Tag VLAN for smooth IPTV application, Multilingual Interface: provides hassle-free configuration in six languages (EN/DE/IT/TR/RU/PO)",
+    "Quantity": 399,
+    "Price": 1699,
+    "availableColors": [],
+    "ImageCover": "1678305677165-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 1,
+    "brand": {
+      "_id": "64089fe824b25627a25315d1",
+      "name": "Canon",
+      "Slug": "canon",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+    },
+    "RatingsAverage": 4.5,
+    "CreatedAt": "2023-03-08T20:01:18.146Z",
+    "updatedAt": "2024-05-12T11:59:30.563Z",
+    "id": "6408e98e6406cd15828e8f30"
+  },
+  {
+    "Sold": 504,
+    "Images": [
+      "1678304765005-1.jpeg",
+      "1678304765006-3.jpeg",
+      "1678304765006-4.jpeg",
+      "1678304765005-2.jpeg",
+      "1678304765006-5.jpeg",
+      "1678304765007-6.jpeg",
+      "1678304765007-7.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3d8b575d3b90bf957ee",
+        "name": "Printers & Accessories",
+        "Slug": "printers-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 60,
+    "Name": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+    "Slug": "pixma-g3420-multi-function-inkjet-printer-black",
+    "Description": "photos with a maximum print-color resolution of 4800 x 1200 dpi using FINE printhead technology. AirPrint allows you to print directly from your iPhone\niPad or iPod touch wirelessly while built-in Wi-Fi technology allows you to print and scan wirelessly from virtually anywhere around your small office\nEnvironmentally friendly, Auto Duplex Printing allows you to automatically print on both sides of paper to reduce paper usage. Full HD Movie Print turns fav\nInnovative intelligence helps to achieve consistent results\nEasy and smooth to use as per convenience\nIt is designed keeping your choice and requirement in mind",
+    "Quantity": 400,
+    "Price": 5999,
+    "availableColors": [],
+    "ImageCover": "1678304764905-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 1,
+    "brand": {
+      "_id": "64089fe824b25627a25315d1",
+      "name": "Canon",
+      "Slug": "canon",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+    },
+    "RatingsAverage": 4.5,
+    "CreatedAt": "2023-03-08T19:46:05.703Z",
+    "updatedAt": "2024-05-13T18:59:03.196Z",
+    "id": "6408e5fd6406cd15828e8f28"
+  },
+  {
+    "Sold": 620,
+    "Images": [
+      "1678304313126-1.jpeg",
+      "1678304313127-2.jpeg",
+      "1678304313134-3.jpeg",
+      "1678304313135-5.jpeg",
+      "1678304313134-4.jpeg",
+      "1678304313135-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3ccb575d3b90bf957eb",
+        "name": "Cameras & Accessories",
+        "Slug": "cameras-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 60,
+    "Name": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+    "Slug": "eos-m50-mark-ii-mirrorless-digital-camera-with-15-45mm-lens-black",
+    "Description": "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200)\ndigic 8 image processor with auto lighting optimizer\nimproved dual pixel cmos af and eye detection af (still/movie servo af support)\n4k uhd 24p and hd 120p for slow motion\nvari-angle touchscreen lcd convenient for vlogging and various composition",
+    "Quantity": 600,
+    "Price": 19699,
+    "PriceAfterDiscount": 19199,
+    "availableColors": [],
+    "ImageCover": "1678304313006-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 1,
+    "brand": {
+      "_id": "64089fe824b25627a25315d1",
+      "name": "Canon",
+      "Slug": "canon",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T19:38:34.436Z",
+    "updatedAt": "2024-05-10T19:09:47.030Z",
+    "id": "6408e43a6406cd15828e8f22"
+  },
+  {
+    "Sold": 861,
+    "Images": ["1678303526286-1.jpeg"],
+    "subcategory": [
+      {
+        "_id": "6407f3c0b575d3b90bf957e8",
+        "name": "Video Games",
+        "Slug": "video-games",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 497,
+    "Name": "PS5 DualSense Charging Station",
+    "Slug": "ps5-dualsense-charging-station",
+    "Description": "Charge up to two DualSense Wireless Controllers at the same time without having to connect them to your PlayStation 5 Console\nYour Controllers charge as quickly as when connected to your PS5 Console – so you can free up USB ports without sacrificing performance\nDock your DualSense Wireless Controllers quickly and easily with the charging station’s click-in design and leave them to charge at your convenience",
+    "Quantity": 600,
+    "Price": 1045,
+    "availableColors": [],
+    "ImageCover": "1678303526206-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 13,
+    "brand": {
+      "_id": "64089df124b25627a25315ab",
+      "name": "Samsung",
+      "Slug": "samsung",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T19:25:26.782Z",
+    "updatedAt": "2024-05-12T18:57:32.209Z",
+    "id": "6408e1266406cd15828e8f1c"
+  },
+  {
+    "Sold": 992,
+    "Images": [
+      "1678303324664-2.jpeg",
+      "1678303324665-3.jpeg",
+      "1678303324664-1.jpeg",
+      "1678303324665-4.jpeg",
+      "1678303324665-5.jpeg",
+      "1678303324666-7.jpeg",
+      "1678303324666-6.jpeg",
+      "1678303324667-8.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 497,
+    "Name": "Galaxy Buds 2 Graphite",
+    "Slug": "galaxy-buds-2-graphite",
+    "Description": "Galaxy Buds 2 come up to 20 hours of playback time with active noise cancellation (ANC) turned on\nThe TWS earphones appear to have a total of three microphones and an integrated voice recording unit for high quality calls\nThe charging case offers an additional 15 hours worth of battery life\nGalaxy Buds2 ear buds take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band\nGalaxy Buds2 have a comfortable, low profile design that's 10% smaller and lighter than Galaxy Buds+; You may get to the end of your playlist before you remember you're wearing them at all\nThe earbuds’ 3 microphones and noise reduction technology ensures voices are transmitted crisply and clearly, whether you're chatting with a friend or leading a high stakes conference call",
+    "Quantity": 600,
+    "Price": 3999,
+    "availableColors": [],
+    "ImageCover": "1678303324588-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T19:22:05.355Z",
+    "updatedAt": "2024-05-14T17:50:27.892Z",
+    "id": "6408e05d6406cd15828e8f16"
+  },
+  {
+    "Sold": 989,
+    "Images": [
+      "1678302803182-2.jpeg",
+      "1678302803182-3.jpeg",
+      "1678302803181-1.jpeg",
+      "1678302803183-4.jpeg",
+      "1678302803183-5.jpeg",
+      "1678302803183-6.jpeg",
+      "1678302803184-7.jpeg",
+      "1678302803184-8.jpeg",
+      "1678302803185-10.jpeg",
+      "1678302803184-9.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 397,
+    "Name": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+    "Slug": "wh-ch510-wireless-on-ear-bluetooth-headphones-black",
+    "Description": "Bluetooth wireless technology for unrestricted movement\nUp to 35 hours of battery life for all-day power and quick charging\nEasy hands-free calling and voice assistant commands with microphone\nCompact and lightweight, swivel ear cups allow easy portability\nSimple button press connects you to your smartphone's voice assistant to get directions, play music\nHear more detail with 30mm Driver Unit",
+    "Quantity": 600,
+    "Price": 1949,
+    "availableColors": [],
+    "ImageCover": "1678302803089-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T19:13:23.984Z",
+    "updatedAt": "2024-05-14T19:50:16.451Z",
+    "id": "6408de536406cd15828e8f10"
+  },
+  {
+    "Sold": 1253,
+    "Images": [
+      "1678301723376-3.jpeg",
+      "1678301723375-2.jpeg",
+      "1678301723376-4.jpeg",
+      "1678301723375-1.jpeg",
+      "1678301723377-5.jpeg",
+      "1678301723377-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 6,
+    "Name": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+    "Slug": "victus-16-d1016ne-laptop-with-16-inch-display-core-i7-12700h-processor-16gb-ram-1tb-nvidia-geforce-rtx3050-ti-graphics-englisharabic-ceramic-white",
+    "Description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+    "Quantity": 253,
+    "Price": 42960,
+    "availableColors": [],
+    "ImageCover": "1678301723274-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 2,
+    "brand": {
+      "_id": "64089faf24b25627a25315cd",
+      "name": "Dell",
+      "Slug": "dell",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T18:55:24.096Z",
+    "updatedAt": "2024-05-14T19:50:16.451Z",
+    "id": "6408da1c6406cd15828e8f0a"
+  },
+  {
+    "Sold": 171,
+    "Images": [
+      "1678301372105-4.jpeg",
+      "1678301372104-3.jpeg",
+      "1678301372104-2.jpeg",
+      "1678301372104-1.jpeg",
+      "1678301372105-5.jpeg",
+      "1678301372106-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 6,
+    "Name": "5520-G15 Gaming Laptop With 15.6 Inch Intel Core i7-12700H/16GB RAM/512 GB SSD/6 GB Nvidia GeForce RTX 3060 Series/Ubuntu English Black/Dark Shadow Grey",
+    "Slug": "5520-g15-gaming-laptop-with-15.6-inch-intel-core-i7-12700h16gb-ram512-gb-ssd6-gb-nvidia-geforce-rtx-3060-seriesubuntu-english-blackdark-shadow-grey",
+    "Description": "NVIDIA GeForce RTX 3060, 6 GB GDDR6\n15.6\", FHD 1920x1080, 120Hz, Non-Touch, AG, WVA, LED-Backlit, 300 nit, Narrow Border\n16 GB, 2 x 8 GB, DDR5, 4800 MHz, dual-channel\n512GB M.2 PCIe NVMe Solid State Drive, Nahimic 3D Audio\nOffice Home & Student 2021, US English orange qwerty backlit keyboard with numeric keypad and G-key",
+    "Quantity": 253,
+    "Price": 42960,
+    "availableColors": [],
+    "ImageCover": "1678301372025-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 2,
+    "brand": {
+      "_id": "64089faf24b25627a25315cd",
+      "name": "Dell",
+      "Slug": "dell",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T18:49:32.940Z",
+    "updatedAt": "2024-05-14T18:03:02.495Z",
+    "id": "6408d8bc6406cd15828e8f00"
+  },
+  {
+    "Sold": 132,
+    "Images": [
+      "1678301081467-3.jpeg",
+      "1678301081467-2.jpeg",
+      "1678301081468-4.jpeg",
+      "1678301081466-1.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 8,
+    "Name": "Laptop Ideapad-Gaming-3-15Imh05 15.6 Inch FHD Intel Core i7 10750H 16GB RAM 1TB HHD + 256GB SSD 4GB Nvidia Geforce Gtx 1650 Ti DDR6 DosOnyx English/Arabic Black",
+    "Slug": "laptop-ideapad-gaming-3-15imh05-15.6-inch-fhd-intel-core-i7-10750h-16gb-ram-1tb-hhd-+-256gb-ssd-4gb-nvidia-geforce-gtx-1650-ti-ddr6-dosonyx-englisharabic-black",
+    "Description": "Processor Information 10Gen Intel CoreI7-10750H 12M Cache, Up To 5.00 Ghz\nGraphic Card Nvidia Geforce Gtx 1650It 4 Gb\nStereo Speakers, 1.5W X2, Dolby Audio",
+    "Quantity": 258,
+    "Price": 27599,
+    "availableColors": [],
+    "ImageCover": "1678301081374-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 3,
+    "brand": {
+      "_id": "64089f8b24b25627a25315ca",
+      "name": "Lenovo",
+      "Slug": "lenovo",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286730980.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-03-08T18:44:42.035Z",
+    "updatedAt": "2024-03-28T01:33:55.546Z",
+    "id": "6408d79a6406cd15828e8ef8"
+  },
+  {
+    "Sold": 162,
+    "Images": [
+      "1678300769732-3.jpeg",
+      "1678300769731-2.jpeg",
+      "1678300769732-4.jpeg",
+      "1678300769731-1.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 8,
+    "Name": "IdeaPad Gaming 3 15IHU6 Laptop With 15.6-inch Display / Intel Core i7-11370H Processor /16GB RAM / 512GB SSD / Nvidia GeForce RTX 3050 4GB Series / DOS / English/Arabic Shadow Black",
+    "Slug": "ideapad-gaming-3-15ihu6-laptop-with-15.6-inch-display-intel-core-i7-11370h-processor-16gb-ram-512gb-ssd-nvidia-geforce-rtx-3050-4gb-series-dos-englisharabic-shadow-black",
+    "Description": "NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1740MHz, TGP 90W\nUp to two drives, 1x 2.5\" HDD + 1x M.2 2242 SSD or 1x M.2 2242/2280 SSD + 1x M.2 2242 SSD\n512GB SSD M.2 2242 PCIe 3.0x4 NVMe",
+    "Quantity": 258,
+    "Price": 29699,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678300769642-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 3,
+    "brand": {
+      "_id": "64089f8b24b25627a25315ca",
+      "name": "Lenovo",
+      "Slug": "lenovo",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286730980.png"
+    },
+    "RatingsAverage": 4.8,
+    "CreatedAt": "2023-03-08T18:39:30.692Z",
+    "updatedAt": "2024-04-18T17:13:37.234Z",
+    "id": "6408d6626406cd15828e8ef2"
+  },
+  {
+    "Sold": 168,
+    "Images": [
+      "1678300420239-1.jpeg",
+      "1678300420239-2.jpeg",
+      "1678300420240-3.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f3a8b575d3b90bf957e2",
+        "name": "Laptops & Accessories",
+        "Slug": "laptops-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 45,
+    "Name": "IdeaPad 5 Laptop with 15.6 inch Core i5-1135G7 8 GB ram 512 GB SSD 4 GB Intel Xe Graphics Windows 11 English/Arabic Abyss Blue",
+    "Slug": "ideapad-5-laptop-with-15.6-inch-core-i5-1135g7-8-gb-ram-512-gb-ssd-4-gb-intel-xe-graphics-windows-11-englisharabic-abyss-blue",
+    "Description": "Screen size 15.6 inch\nGraphics Card Version Intel Iris Xe Graphics",
+    "Quantity": 258,
+    "Price": 20999,
+    "PriceAfterDiscount": 16799,
+    "availableColors": [],
+    "ImageCover": "1678300419873-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 3,
+    "brand": {
+      "_id": "64089f8b24b25627a25315ca",
+      "name": "Lenovo",
+      "Slug": "lenovo",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286730980.png"
+    },
+    "RatingsAverage": 4.2,
+    "CreatedAt": "2023-03-08T18:33:40.755Z",
+    "updatedAt": "2024-05-11T20:08:37.588Z",
+    "id": "6408d5046406cd15828e8eec"
+  },
+  {
+    "Sold": 111,
+    "Images": [
+      "1678299872467-2.jpeg",
+      "1678299872466-1.jpeg",
+      "1678299872467-3.jpeg",
+      "1678299872468-4.jpeg",
+      "1678299872468-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 45,
+    "Name": "43 Inch LED TV Full HD with Built-In Receiver, 2 HDMI and 2 USB Inputs 43L3965EA Black",
+    "Slug": "43-inch-led-tv-full-hd-with-built-in-receiver-2-hdmi-and-2-usb-inputs-43l3965ea-black",
+    "Description": "Analyzing original content with an advanced algorithm Ultra Clean View gives you higher quality Images\nWatch your favourite content with natural colours that deliver details as crisp as the real thing\nThis beautifully slim design melts into any existing décor and elevates the style without taking it over\nThe sleek One Remote Control keeps it simple\nDelivers superior picture quality with enhanced color purity\nEnjoy rich, flawless, multi-dimensional audio as the built-in speakers on your TV deliver sound from all angles\nMaintains accurate color, even from the sides, and allows everyone to enjoy the realistic picture\nWe think inside, outside and about the box. Thus, our packaging lives up to the brand image and the quality of the product",
+    "Quantity": 250,
+    "Price": 8999,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678299872385-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 30,
+    "brand": {
+      "_id": "64089aa924b25627a2531576",
+      "name": "Toshiba",
+      "Slug": "toshiba",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285481289.png"
+    },
+    "RatingsAverage": 4.2,
+    "CreatedAt": "2023-03-08T18:24:33.379Z",
+    "updatedAt": "2024-03-31T11:21:57.529Z",
+    "id": "6408d2e16406cd15828e8ee6"
+  },
+  {
+    "Sold": 62,
+    "Images": [
+      "1678299333084-2.jpeg",
+      "1678299333084-3.jpeg",
+      "1678299333084-4.jpeg",
+      "1678299333083-1.jpeg",
+      "1678299333085-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 68,
+    "Name": "50-Inch 4K Smart Frameless D-LED TV 50U5965EA Black - WE Offer (100 GB Free for 3 Months) 50U5965EA Black",
+    "Slug": "50-inch-4k-smart-frameless-d-led-tv-50u5965ea-black-we-offer-(100-gb-free-for-3-months)-50u5965ea-black",
+    "Description": "Delivers rich colors and a strong contrast ratio that remain consistent even at wide viewing angles\nSupports many premium content choices, all optimized with scene-by-scene picture adjustment\nBreathtaking clarity and fine picture details that will amaze, even when viewed up close,\nSmart tV screen size 50 Inch dimensions 1127 x 661 x 73 mm hdmi ports 3 USB Ports 2 Internet connection WiFi ethernet hd\nIn addition to technology that gives you endless color accuracy to enjoy the details of every scene It comes with technology that ensures that you are completely immersed in movies and programs to get amazing entertainment\nEnjoy rich, flawless, multi-dimensional audio as the built-in speakers on your TV deliver sound from all angles\nMaintains accurate color, even from the sides, and allows everyone to enjoy the realistic picture\nExceptional gaming performance with quick response action, colour and detail of brings everything you watch is clear, bright and incredibly realistic",
+    "Quantity": 200,
+    "Price": 11349,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678299332992-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 30,
+    "brand": {
+      "_id": "64089aa924b25627a2531576",
+      "name": "Toshiba",
+      "Slug": "toshiba",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285481289.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T18:15:33.870Z",
+    "updatedAt": "2024-05-14T15:24:57.006Z",
+    "id": "6408d0c56406cd15828e8ee0"
+  },
+  {
+    "Sold": 72,
+    "Images": [
+      "1678298856237-2.jpeg",
+      "1678298856237-3.jpeg",
+      "1678298856238-5.jpeg",
+      "1678298856236-1.jpeg",
+      "1678298856238-7.jpeg",
+      "1678298856238-4.jpeg",
+      "1678298856239-8.jpeg",
+      "1678298856238-6.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 10,
+    "Name": "Shield LED TV 43 Inch Full HD With 2 HDMI and 2 USB Inputs 43EL8250E-A Black",
+    "Slug": "shield-led-tv-43-inch-full-hd-with-2-hdmi-and-2-usb-inputs-43el8250e-a-black",
+    "Description": "Harmonizes with your space and add sophisticated ambience\nMaintains accurate color, even from the sides, and allows everyone to enjoy the realistic picture\nHigh quality materials ensures durability and longevity\nColor-saturated picture even while looking at the screen from sideways. The audio technology ensures an incredible sound surround and acoustic experience\nWe think inside, outside and about the box. Thus, our packaging lives up to the brand image and the quality of the product\nContrast enhancer brings flat Images to life by adjusting contrast and delivering stunning image quality with more depth\nEnhanced details for clearer photos ultra clean view theme delivers high-quality Images with less noise, while using an advanced algorithm to analyze original content and provide enhanced detail\nExceptional gaming performance with quick response action, colour and detail of brings everything you watch is clear, bright and incredibly realistic",
+    "Quantity": 278,
+    "Price": 9099,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678298856153-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.3,
+    "CreatedAt": "2023-03-08T18:07:37.051Z",
+    "updatedAt": "2024-05-03T13:22:41.956Z",
+    "id": "6408cee96406cd15828e8eda"
+  },
+  {
+    "Sold": 98,
+    "Images": [
+      "1678298635455-3.jpeg",
+      "1678298635454-1.jpeg",
+      "1678298635455-2.jpeg",
+      "1678298635455-4.jpeg",
+      "1678298635456-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 11,
+    "Name": "TORNADO Smart LED TV 43 Inch Full HD With Built-In Receiver, 2 HDMI and 2 USB Inputs 43ES1500E Black - WE Offer (50 GB Free for 1 Month) 43ES1500E Black",
+    "Slug": "tornado-smart-led-tv-43-inch-full-hd-with-built-in-receiver-2-hdmi-and-2-usb-inputs-43es1500e-black-we-offer-(50-gb-free-for-1-month)-43es1500e-black",
+    "Description": "Connect With Wired and Wireless Internet\nUSB : Video - Photos - Music\nSound Modes : Standard - Music - Movies - Sports - Personal\nOn an Ultra-high-definition TV with 4 times the amount of pixels of a standard Full HD TV, you will be enjoying a clear, crisp image with more detail. The effect will be much more pronounced on larger screen sizes\nQuantum dot 4K displays produce enhanced colours and contrast compared to non-quantum dot LED displays\nHigh Dynamic Range increases the range of light levels on your TV so you can enjoy an enormous spectrum of colors and all the visual details, in even the darkest scene",
+    "Quantity": 270,
+    "Price": 8499,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678298635287-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.4,
+    "CreatedAt": "2023-03-08T18:03:56.118Z",
+    "updatedAt": "2024-05-02T21:47:55.026Z",
+    "id": "6408ce0c6406cd15828e8ed4"
+  },
+  {
+    "Sold": 88,
+    "Images": [
+      "1678298336132-3.jpeg",
+      "1678298336132-2.jpeg",
+      "1678298336131-1.jpeg",
+      "1678298336133-4.jpeg",
+      "1678298336133-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 30,
+    "Name": "TORNADO LED TV 32 Inch HD With Built-In Receiver, 2 HDMI and 2 USB Inputs 32ER9300E Black",
+    "Slug": "tornado-led-tv-32-inch-hd-with-built-in-receiver-2-hdmi-and-2-usb-inputs-32er9300e-black",
+    "Description": "Viewing Angle : 178°\nUSB : Video - Photos - Music\nContrast Ratio : 1:1100\nLED TVs are more energy-efficient as these models use light emitting diodes (LED) for backlighting\nThese TVs consume less power as compared to cold cathode fluorescent lamps (CCFL), which most LCD TVs use\nThis results in a power savings of up to 30%\nDimensions ( Width x Height x Depth ) mm :- Without Stand : 733 x 433.3 x 77.1. With Stand : 733 x 469.5 x 178.2",
+    "Quantity": 238,
+    "Price": 5114,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678298336042-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.9,
+    "CreatedAt": "2023-03-08T17:58:57.116Z",
+    "updatedAt": "2024-05-02T21:47:55.026Z",
+    "id": "6408cce16406cd15828e8ece"
+  },
+  {
+    "Sold": 101,
+    "Images": [
+      "1678298246326-4.jpeg",
+      "1678298246325-1.jpeg",
+      "1678298246326-3.jpeg",
+      "1678298246325-2.jpeg",
+      "1678298246327-5.jpeg"
+    ],
+    "subcategory": [
+      {
+        "_id": "6407f39bb575d3b90bf957df",
+        "name": "TVs, Satellites & Accessories",
+        "Slug": "tvs-satellites-and-accessories",
+        "category": "6439d2d167d9aa4ca970649f"
+      }
+    ],
+
+    "RatingsQuantity": 50,
+    "Name": "TORNADO Smart LED TV 32 Inch HD With Built-In Receiver, 2 HDMI and 2 USB Inputs 32ES1500E Black - WE Offer (50 GB Free for 1 Month) 32ES1500E Black",
+    "Slug": "tornado-smart-led-tv-32-inch-hd-with-built-in-receiver-2-hdmi-and-2-usb-inputs-32es1500e-black-we-offer-(50-gb-free-for-1-month)-32es1500e-black",
+    "Description": "Connect With Wired and Wireless Internet\nUSB : Video - Photos - Music\nSound Modes : Standard - Music - Movies - Sports - Personal\nOperating System: Tornado Portal",
+    "Quantity": 230,
+    "Price": 4799,
+    "PriceAfterDiscount": 0,
+    "availableColors": [],
+    "ImageCover": "1678298246240-cover.jpeg",
+    "CategoryId": 10,
+    "category": {
+      "_id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "Slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+    },
+    "BrandId": 4,
+    "brand": {
+      "_id": "64089f5824b25627a25315c7",
+      "name": "SONY",
+      "Slug": "sony",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+    },
+    "RatingsAverage": 4.5,
+    "CreatedAt": "2023-03-08T17:57:27.062Z",
+    "updatedAt": "2024-04-02T16:11:44.404Z",
+    "id": "6408cc876406cd15828e8ec8"
+  }
+]

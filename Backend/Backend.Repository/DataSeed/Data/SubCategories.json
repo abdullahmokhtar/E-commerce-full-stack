@@ -1,0 +1,302 @@
+[
+  {
+    "Name": "Computer Accessories",
+    "Slug": "computer-accessories",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:33:49.497Z"
+  },
+  {
+    "Name": "Computer Components",
+    "Slug": "computer-components",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:33:38.069Z"
+  },
+  {
+    "Name": "Data Storage",
+    "Slug": "data-storage",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:33:26.513Z"
+  },
+  {
+    "Name": "Networking Products",
+    "Slug": "networking-products",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:33:07.413Z"
+  },
+  {
+    "Name": "Printers & Accessories",
+    "Slug": "printers-and-accessories",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:32:56.016Z"
+  },
+  {
+    "Name": "Cameras & Accessories",
+    "Slug": "cameras-and-accessories",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:32:44.305Z"
+  },
+  {
+    "Name": "Video Games",
+    "Slug": "video-games",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:32:32.504Z"
+  },
+  {
+    "Name": "Audio & Home Entertainment",
+    "Slug": "audio-and-home-entertainment",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:32:20.108Z"
+  },
+  {
+    "Name": "Laptops & Accessories",
+    "Slug": "laptops-and-accessories",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:32:08.305Z"
+  },
+  {
+    "Name": "TVs, Satellites & Accessories",
+    "Slug": "tvs-satellites-and-accessories",
+    "CategoryId": 10,
+    "CreatedAt": "2023-03-08T02:31:55.083Z"
+  },
+  {
+    "Name": "Mobile Gaming & VR Gadgets",
+    "Slug": "mobile-gaming-and-vr-gadgets",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:31:09.131Z"
+  },
+  {
+    "Name": "Covers & Screen protectors",
+    "Slug": "covers-and-screen-protectors",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:30:56.722Z"
+  },
+  {
+    "Name": "Chargers & Cables",
+    "Slug": "chargers-and-cables",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:30:35.740Z"
+  },
+  {
+    "Name": "Power Banks",
+    "Slug": "power-banks",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:30:18.353Z"
+  },
+  {
+    "Name": "Earphones",
+    "Slug": "earphones",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:30:06.169Z"
+  },
+  {
+    "Name": "Wireless Earphones",
+    "Slug": "wireless-earphones",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:29:52.666Z"
+  },
+  {
+    "Name": "Smartwatches & Accessories",
+    "Slug": "smartwatches-and-accessories",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:29:39.392Z"
+  },
+  {
+    "Name": "All Tablets",
+    "Slug": "all-tablets",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:29:25.526Z"
+  },
+  {
+    "Name": "All Mobile Phones",
+    "Slug": "all-mobile-phones",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:29:11.689Z"
+  },
+  {
+    "Name": "Mobile New Arrivals",
+    "Slug": "mobile-new-arrivals",
+    "CategoryId": 9,
+    "CreatedAt": "2023-03-08T02:28:45.930Z"
+  },
+  {
+    "Name": "Bags & luggage",
+    "Slug": "bags-and-luggage",
+    "CategoryId": 2,
+    "CreatedAt": "2023-03-08T02:27:02.780Z"
+  },
+  {
+    "Name": "Men's Clothing",
+    "Slug": "men's-clothing",
+    "CategoryId": 2,
+    "CreatedAt": "2023-03-08T02:26:11.097Z"
+  },
+  {
+    "Name": "Kid's Fashion",
+    "Slug": "kid's-fashion",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:25:29.097Z"
+  },
+  {
+    "Name": "Handbags",
+    "Slug": "handbags",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:25:12.342Z"
+  },
+  {
+    "Name": "Eyewear",
+    "Slug": "eyewear",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:25:01.426Z"
+  },
+  {
+    "Name": "Jewellery",
+    "Slug": "jewellery",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:24:44.971Z"
+  },
+  {
+    "Name": "Watches",
+    "Slug": "watches",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:24:33.360Z"
+  },
+  {
+    "Name": "Footwear",
+    "Slug": "footwear",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:24:11.263Z"
+  },
+  {
+    "Name": "Women's Clothing",
+    "Slug": "women's-clothing",
+    "CategoryId": 3,
+    "CreatedAt": "2023-03-08T02:23:56.892Z"
+  },
+  {
+    "Name": "Kitchen & Dining",
+    "Slug": "kitchen-and-dining",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:23:20.140Z"
+  },
+  {
+    "Name": "Home Decor",
+    "Slug": "home-decor",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:23:04.503Z"
+  },
+  {
+    "Name": "Furniture",
+    "Slug": "furniture",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:22:52.353Z"
+  },
+  {
+    "Name": "Tools & Home Improvement",
+    "Slug": "tools-and-home-improvement",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:22:27.049Z"
+  },
+  {
+    "Name": "Bath & Bedding",
+    "Slug": "bath-and-bedding",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:22:12.068Z"
+  },
+  {
+    "Name": "Drinkware",
+    "Slug": "drinkware",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:22:01.376Z"
+  },
+  {
+    "Name": "Cookware",
+    "Slug": "cookware",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:21:48.561Z"
+  },
+  {
+    "Name": "Large Appliances",
+    "Slug": "large-appliances",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:21:37.395Z"
+  },
+  {
+    "Name": "Home Appliances",
+    "Slug": "home-appliances",
+    "CategoryId": 6,
+    "CreatedAt": "2023-03-08T02:21:18.532Z"
+  },
+  {
+    "Name": "Health & Nutrition",
+    "Slug": "health-and-nutrition",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:19:55.616Z"
+  },
+  {
+    "Name": "Personal Care",
+    "Slug": "personal-care",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:19:43.906Z"
+  },
+  {
+    "Name": "Skin Care",
+    "Slug": "skin-care",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:19:29.106Z"
+  },
+  {
+    "Name": "Hair Care",
+    "Slug": "hair-care",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:19:15.664Z"
+  },
+  {
+    "Name": "Makeup",
+    "Slug": "makeup",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:19:04.751Z"
+  },
+  {
+    "Name": "Fragrance",
+    "Slug": "fragrance",
+    "CategoryId": 8,
+    "CreatedAt": "2023-03-08T02:18:51.124Z"
+  },
+  {
+    "Name": "Toys",
+    "Slug": "toys",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:16:57.222Z"
+  },
+  {
+    "Name": "Potty Training",
+    "Slug": "potty-training",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:16:44.110Z"
+  },
+  {
+    "Name": "Bouncers & Swings",
+    "Slug": "bouncers-and-swings",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:16:28.095Z"
+  },
+  {
+    "Name": "Car Seats & Strollers",
+    "Slug": "car-seats-and-strollers",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:16:10.089Z"
+  },
+  {
+    "Name": "Nursing & Feeding",
+    "Slug": "nursing-and-feeding",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:15:54.003Z"
+  },
+  {
+    "Name": "Bathing & Skin Care",
+    "Slug": "bathing-and-skin-care",
+    "CategoryId": 5,
+    "CreatedAt": "2023-03-08T02:15:38.222Z"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Canon",
+    "Slug": "canon",
+    "Image": "1678286824747.png",
+    "CreatedAt": "2023-03-08T14:47:04.912Z"
+  },
+  {
+    "Name": "Dell",
+    "Slug": "dell",
+    "Image": "1678286767914.png",
+    "CreatedAt": "2023-03-08T14:46:07.963Z"
+  },
+  {
+    "Name": "Lenovo",
+    "Slug": "lenovo",
+    "Image": "1678286730980.png",
+    "CreatedAt": "2023-03-08T14:45:31.041Z"
+  },
+  {
+    "Name": "SONY",
+    "Slug": "sony",
+    "Image": "1678286680638.png",
+    "CreatedAt": "2023-03-08T14:44:40.740Z"
+  },
+  {
+    "Name": "Infinix",
+    "Slug": "infinix",
+    "Image": "1678286620402.png",
+    "CreatedAt": "2023-03-08T14:43:40.601Z"
+  },
+  {
+    "Name": "Realme",
+    "Slug": "realme",
+    "Image": "1678286577463.png",
+    "CreatedAt": "2023-03-08T14:42:57.494Z"
+  },
+  {
+    "Name": "HONOR",
+    "Slug": "honor",
+    "Image": "1678286539788.png",
+    "CreatedAt": "2023-03-08T14:42:19.819Z"
+  },
+  {
+    "Name": "Nokia",
+    "Slug": "nokia",
+    "Image": "1678286502288.png",
+    "CreatedAt": "2023-03-08T14:41:42.322Z"
+  },
+  {
+    "Name": "OPPO",
+    "Slug": "oppo",
+    "Image": "1678286465856.png",
+    "CreatedAt": "2023-03-08T14:41:05.891Z"
+  },
+  {
+    "Name": "Huawei",
+    "Slug": "huawei",
+    "Image": "1678286421517.png",
+    "CreatedAt": "2023-03-08T14:40:21.568Z"
+  },
+  {
+    "Name": "Apple",
+    "Slug": "apple",
+    "Image": "1678286391415.png",
+    "CreatedAt": "2023-03-08T14:39:51.467Z"
+  },
+  {
+    "Name": "Xiaomi",
+    "Slug": "xiaomi",
+    "Image": "1678286366797.png",
+    "CreatedAt": "2023-03-08T14:39:26.897Z"
+  },
+  {
+    "Name": "Samsung",
+    "Slug": "samsung",
+    "Image": "1678286321029.png",
+    "CreatedAt": "2023-03-08T14:38:41.380Z"
+  },
+  {
+    "Name": "Jack & Jones",
+    "Slug": "jack-and-jones",
+    "Image": "1678286281363.png",
+    "CreatedAt": "2023-03-08T14:38:01.423Z"
+  },
+  {
+    "Name": "LC Waikiki",
+    "Slug": "lc-waikiki",
+    "Image": "1678286238428.png",
+    "CreatedAt": "2023-03-08T14:37:18.790Z"
+  },
+  {
+    "Name": "Andora",
+    "Slug": "andora",
+    "Image": "1678286204060.png",
+    "CreatedAt": "2023-03-08T14:36:44.309Z"
+  },
+  {
+    "Name": "Puma",
+    "Slug": "puma",
+    "Image": "1678286172219.png",
+    "CreatedAt": "2023-03-08T14:36:12.269Z"
+  },
+  {
+    "Name": "Skechers",
+    "Slug": "skechers",
+    "Image": "1678286142113.png",
+    "CreatedAt": "2023-03-08T14:35:42.167Z"
+  },
+  {
+    "Name": "Reserved",
+    "Slug": "reserved",
+    "Image": "1678286099850.png",
+    "CreatedAt": "2023-03-08T14:34:59.890Z"
+  },
+  {
+    "Name": "Reebok",
+    "Slug": "reebok",
+    "Image": "1678286058845.png",
+    "CreatedAt": "2023-03-08T14:34:19.466Z"
+  },
+  {
+    "Name": "Adidas",
+    "Slug": "adidas",
+    "Image": "1678285881943.png",
+    "CreatedAt": "2023-03-08T14:31:21.966Z"
+  },
+  {
+    "Name": "Nike",
+    "Slug": "nike",
+    "Image": "1678285837630.png",
+    "CreatedAt": "2023-03-08T14:30:37.794Z"
+  },
+  {
+    "Name": "DeFacto",
+    "Slug": "defacto",
+    "Image": "1678285758109.png",
+    "CreatedAt": "2023-03-08T14:29:18.205Z"
+  },
+  {
+    "Name": "Beko",
+    "Slug": "beko",
+    "Image": "1678285724527.png",
+    "CreatedAt": "2023-03-08T14:28:44.636Z"
+  },
+  {
+    "Name": "Kenwood",
+    "Slug": "kenwood",
+    "Image": "1678285698559.png",
+    "CreatedAt": "2023-03-08T14:28:18.615Z"
+  },
+  {
+    "Name": "Black + Decker",
+    "Slug": "black-+-decker",
+    "Image": "1678285650508.png",
+    "CreatedAt": "2023-03-08T14:27:30.557Z"
+  },
+  {
+    "Name": "Mienta",
+    "Slug": "mienta",
+    "Image": "1678285592826.png",
+    "CreatedAt": "2023-03-08T14:26:32.996Z"
+  },
+  {
+    "Name": "Fresh",
+    "Slug": "fresh",
+    "Image": "1678285558892.png",
+    "CreatedAt": "2023-03-08T14:25:58.960Z"
+  },
+  {
+    "Name": "Philips",
+    "Slug": "philips",
+    "Image": "1678285517454.png",
+    "CreatedAt": "2023-03-08T14:25:17.483Z"
+  },
+  {
+    "Name": "Toshiba",
+    "Slug": "toshiba",
+    "Image": "1678285481289.png",
+    "CreatedAt": "2023-03-08T14:24:41.334Z"
+  },
+  {
+    "Name": "Tornado",
+    "Slug": "tornado",
+    "Image": "1678285447068.png",
+    "CreatedAt": "2023-03-08T14:24:07.102Z"
+  },
+  {
+    "Name": "Braun",
+    "Slug": "braun",
+    "Image": "1678285367650.png",
+    "CreatedAt": "2023-03-08T14:22:47.709Z"
+  },
+  {
+    "Name": "Garnier",
+    "Slug": "garnier",
+    "Image": "1678285324193.png",
+    "CreatedAt": "2023-03-08T14:22:04.241Z"
+  },
+  {
+    "Name": "Essence",
+    "Slug": "essence",
+    "Image": "1678285277076.png",
+    "CreatedAt": "2023-03-08T14:21:17.103Z"
+  },
+  {
+    "Name": "Bourjois",
+    "Slug": "bourjois",
+    "Image": "1678285240940.png",
+    "CreatedAt": "2023-03-08T14:20:41.002Z"
+  },
+  {
+    "Name": "Kemei",
+    "Slug": "kemei",
+    "Image": "1678285201152.png",
+    "CreatedAt": "2023-03-08T14:20:01.189Z"
+  },
+  {
+    "Name": "Carolina Herrera",
+    "Slug": "carolina-herrera",
+    "Image": "1678285115409.png",
+    "CreatedAt": "2023-03-08T14:18:35.560Z"
+  },
+  {
+    "Name": "Calvin Klein",
+    "Slug": "calvin-klein",
+    "Image": "1678285065497.png",
+    "CreatedAt": "2023-03-08T14:17:45.633Z"
+  },
+  {
+    "Name": "Loreal",
+    "Slug": "loreal",
+    "Image": "1678285025559.png",
+    "CreatedAt": "2023-03-08T14:17:05.885Z"
+  },
+  {
+    "Name": "Maybelline",
+    "Slug": "maybelline",
+    "Image": "1678284642946.png",
+    "CreatedAt": "2023-03-08T14:10:42.968Z"
+  }
+]
