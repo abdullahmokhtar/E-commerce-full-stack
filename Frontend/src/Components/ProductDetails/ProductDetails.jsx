@@ -16,12 +16,13 @@ import { useState } from "react";
 const ProductDetails = () => {
   const { id } = useParams();
 
-  const { data: wishlist } = useQuery({
+  const { data: wishlist, isLoading: isWishListLoading } = useQuery({
     queryFn: getLoggedUserWishList,
     queryKey: ["wishlist"],
   });
 
-  const fav = wishlist?.filter((pro) => pro.id === id);
+  const fav = wishlist?.filter((wishlist) => wishlist.id === +id).length > 0;
+
   const [isFav, setIsFav] = useState(false);
 
   const addProductToCart = async () => {
@@ -119,7 +120,23 @@ const ProductDetails = () => {
                 >
                   + Add To Cart
                 </button>
-                {fav?.length > 0 || isFav ? (
+                {!isWishListLoading &&
+                  (fav || isFav ? (
+                    <i
+                      onClick={removeProductFromWishlist}
+                      style={{ color: "red" }}
+                      className="fa-solid fa-heart h3"
+                      role="button"
+                    ></i>
+                  ) : (
+                    <i
+                      onClick={addProductToWishlist}
+                      style={{ color: "black" }}
+                      className="fa-solid fa-heart h3"
+                      role="button"
+                    ></i>
+                  ))}
+                {/* {isFav ? (
                   <i
                     onClick={removeProductFromWishlist}
                     style={{ color: "red" }}
@@ -133,7 +150,7 @@ const ProductDetails = () => {
                     className="fa-solid fa-heart h3"
                     role="button"
                   ></i>
-                )}
+                )} */}
               </div>
             </div>
           </div>
