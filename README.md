@@ -1,7 +1,3 @@
-Sure, here's a README file for a full-stack eCommerce website called "Fresh Cart," built with a .NET Core Web API for the backend and React.js for the frontend:
-
----
-
 # Fresh Cart
 
 Welcome to the Fresh Cart repository! Fresh Cart is a full-featured eCommerce platform where users can browse, search, and purchase fresh produce and other grocery items. The platform includes user authentication, product management, a shopping cart, and order processing functionalities.
@@ -22,7 +18,6 @@ Welcome to the Fresh Cart repository! Fresh Cart is a full-featured eCommerce pl
 - **Product Catalog:** Browse and search for products by category, name, and price.
 - **Shopping Cart:** Add, update, and remove items from the cart.
 - **Order Processing:** Checkout and manage orders.
-- **Admin Panel:** Manage products, categories, and user accounts.
 - **Responsive Design:** Works on both desktop and mobile devices.
 
 ## Installation
@@ -33,7 +28,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/fresh-cart.git
+    git clone https://github.com/abdullahmokhtar/E-commerce-full-stack.git
     ```
     
 2. **Navigate to the backend project directory:**
@@ -95,17 +90,17 @@ To get a local copy up and running, follow these steps:
 
 - **Frontend:**
   - React
-  - Redux
+  - ReactQuery
+  - axios
   - Bootstrap
 - **Backend:**
   - .NET Core Web API
   - ASP.NET Core
 - **Database:**
-  - SQL Server or MongoDB (specify your choice)
+  - SQL Server
 - **Authentication:**
   - JSON Web Tokens (JWT)
 - **Other Tools:**
-  - Docker
   - Jest (for testing)
   - ESLint (for code quality)
 
@@ -125,9 +120,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Abdullah Mokhtar - abdullahmokhtr55@gmail.com
 
-Project Link: [https://github.com/yourusername/fresh-cart](https://github.com/yourusername/fresh-cart)
+Project Link: [https://github.com/abdullahmokhtar/E-commerce-full-stack](https://github.com/abdullahmokhtar/E-commerce-full-stack)
 
 ---
 
