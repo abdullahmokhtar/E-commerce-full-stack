@@ -38,7 +38,7 @@ const Register = () => {
       .required("Password is required")
       .matches(
         /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{8,16}$/,
-        "Password must contain a special character, number and greater than 8 characters and less than 18 characters"
+        "Password must contain a special character, number and greater than 8 characters and less than 16 characters"
       ),
     rePassword: string()
       .required("RePassword is required")

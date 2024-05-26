@@ -34,12 +34,7 @@ const Login = () => {
         /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i,
         "Invalid email address"
       ),
-    password: string()
-      .required("Password is required")
-      .matches(
-        /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{8,16}$/,
-        "Password must contain a special character, number and greater than 8 characters and less than 18 characters"
-      ),
+    password: string().required("Password is required"),
   });
 
   const formik = useFormik({
@@ -85,9 +80,6 @@ const Login = () => {
             id="password"
             className="form-control mb-3"
           />
-          {formik.errors.password && formik.touched.password && (
-            <div className="alert alert-danger">{formik.errors.password}</div>
-          )}
 
           {errorMessage && (
             <div className="alert alert-danger">{errorMessage}</div>
