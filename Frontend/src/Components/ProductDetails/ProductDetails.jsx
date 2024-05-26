@@ -101,7 +101,7 @@ const ProductDetails = () => {
                   {data?.category?.name}
                 </h5>
                 <h5 className="font-sm text-info mt-2">
-                  {data?.brand?.name.toUpperCase()}
+                  {data?.brand?.name?.toUpperCase()}
                 </h5>
               </div>
               <p className="mt-2">{data?.description}</p>
