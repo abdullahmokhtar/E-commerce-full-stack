@@ -87,7 +87,7 @@ export async function updateProduct({ id, count }) {
   return data;
 }
 
-export async function getCategories(pageParam) {
+export async function getCategories(pageParam = 1) {
   const { data, status } = await axios
     .get(`categories?pageNumber=${pageParam}&PageSize=12`)
     .catch((err) => {
