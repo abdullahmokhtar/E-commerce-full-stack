@@ -4,11 +4,16 @@ import CategorySlider from "../CategorySlider/CategorySlider";
 import { useQuery } from "react-query";
 import { Helmet } from "react-helmet";
 import { getLoggedUserWishList, getProducts } from "../../util/http";
+import { useState } from "react";
+import Pagination from "../Pagination/Pagination";
 
 const Home = () => {
+  const [page, setPage] = useState(1);
   const { data, isError, isLoading } = useQuery({
-    queryKey: ["products"],
-    queryFn: getProducts,
+    queryKey: ["products", page],
+    queryFn: () => getProducts(page, 0),
+    keepPreviousData: true,
+    cacheTime: 1000
   });
 
     const { data: wishlist } = useQuery({
@@ -36,9 +41,21 @@ const Home = () => {
         </div>
       )}
       <div className="row">
-        {data?.map((product) => {
-          return <Product fav={wishlist?.filter(pro => pro.id === product.id)} key={product.id} product={product} />;
+        {data?.data?.map((product) => {
+          return (
+            <Product
+              fav={wishlist?.filter((pro) => pro.id === product.id)}
+              key={product.id}
+              product={product}
+            />
+          );
         })}
+        <Pagination
+          decrementPage={() => setPage((prev) => prev - 1)}
+          incrementPage={() => setPage((prev) => prev + 1)}
+          pageNumber={data?.pageNumber}
+          totalPages={data?.totalPages}
+        />
       </div>
     </>
   );

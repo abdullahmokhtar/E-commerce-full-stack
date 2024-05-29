@@ -75,3 +75,17 @@ a p {
   box-shadow: var(--shadow);
   border: solid 1px var(--main-color);
 }
+
+.pagination{
+  width: fit-content;
+}
+
+.pagination li button {
+  color: var(--main-color) !important;
+}
+
+.pagination li.active button {
+  color: #fff !important;
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}

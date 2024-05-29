@@ -2,14 +2,16 @@ import { Helmet } from "react-helmet";
 import { useQuery } from "react-query";
 import { getCategories, getSubCategories } from "../../util/http";
 import { useState } from "react";
+import Pagination from "../Pagination/Pagination";
 
 const Categories = () => {
   const [subCategories, setSubCategories] = useState([]);
   const [categoryName, setCategoryName] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [page, setPage] = useState(1);
   const { data } = useQuery({
-    queryKey: ["categories"],
-    queryFn: getCategories,
+    queryKey: ["categories", page],
+    queryFn: () => getCategories(page),
   });
 
   const getSubCategory = async (id, name) => {
@@ -29,7 +31,7 @@ const Categories = () => {
       </Helmet>
       <div className="container my-5 py-5">
         <div className="row g-4">
-          {data?.map((category) => (
+          {data?.data?.map((category) => (
             <div key={category.id} className="col-md-4">
               <div
                 onClick={() => getSubCategory(category.id, category.name)}
@@ -50,6 +52,12 @@ const Categories = () => {
               </div>
             </div>
           ))}
+          <Pagination
+            decrementPage={() => setPage((prev) => prev - 1)}
+            incrementPage={() => setPage((prev) => prev + 1)}
+            pageNumber={data?.pageNumber}
+            totalPages={data?.totalPages}
+          />
         </div>
       </div>
       {isLoading && (

@@ -1,10 +1,11 @@
 ﻿using Backend.API.Dtos.Brands;
+using Backend.BLL;
 
 namespace Backend.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class BrandsController : ControllerBase
     {
         private readonly IBrandRepository _brandRepository;
@@ -17,8 +18,8 @@ namespace Backend.API.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyList<BrandDto>>> GetAll()
-            => Ok( _mapper.Map<IReadOnlyList<BrandDto>>(await _brandRepository.GetAll()));
+        public async Task<ActionResult<PagedResponseDto<BrandDto>>> GetAll([FromQuery] QueryObject queryObject)
+            => Ok( _mapper.Map<PagedResponseDto<BrandDto>>(await _brandRepository.GetAll(queryObject)));
 
         [HttpGet]
         [Route("{id:int}")]

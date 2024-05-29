@@ -1,6 +1,7 @@
 ﻿using Backend.API.Dtos.Account;
 using Backend.API.Dtos.Brands;
 using Backend.API.Dtos.Orders;
+using Backend.BLL;
 
 namespace Backend.API.Helper
 {
@@ -23,9 +24,8 @@ namespace Backend.API.Helper
             CreateMap<Cart, CartDto>();
             CreateMap<CartProduct, CartProductDto>();
 
-            //CreateMap<Ca>
+            CreateMap(typeof(PagedResponse<>), typeof(PagedResponseDto<>));
 
-            //CreateMap<Address, AddressDto>().ReverseMap();
             CreateMap<ShippingAddressDto, ShippingAddress>();
             CreateMap<Order, OrderDto>();
             CreateMap<OrderItem, OrderItemDto>();

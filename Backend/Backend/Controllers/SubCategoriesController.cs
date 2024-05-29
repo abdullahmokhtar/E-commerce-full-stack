@@ -1,4 +1,6 @@
-﻿namespace Backend.API.Controllers
+﻿using Backend.BLL;
+
+namespace Backend.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -12,8 +14,8 @@
         }
 
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyList<SubCategory>>> GetAll()
-            => Ok(await _subCategoryRepository.GetAll());
+        public async Task<ActionResult<IReadOnlyList<SubCategory>>> GetAll([FromQuery] QueryObject queryObject)
+            => Ok(await _subCategoryRepository.GetAll(queryObject));
 
         [HttpGet]
         [Route("{id:int}")]

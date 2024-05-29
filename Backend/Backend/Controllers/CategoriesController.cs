@@ -1,4 +1,6 @@
-﻿namespace Backend.API.Controllers
+﻿using Backend.BLL;
+
+namespace Backend.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -13,8 +15,10 @@
             _mapper = mapper;
         }
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyList<CategoryDto>>> GetAll()
-            => Ok(_mapper.Map<IReadOnlyList<CategoryDto>>(await _categoryRepository.GetAll()));
+        public async Task<ActionResult<PagedResponseDto<CategoryDto>>> GetAll([FromQuery] QueryObject queryObject)
+            => Ok(
+                _mapper.Map<PagedResponseDto<CategoryDto>>
+                (await _categoryRepository.GetAll(queryObject)));
 
         [HttpGet]
         [Route("{id:int}")]

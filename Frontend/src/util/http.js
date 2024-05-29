@@ -11,10 +11,13 @@ axios.interceptors.request.use(function (config) {
 
 export const queryClient = new QueryClient();
 
-export async function getProducts({ id }) {
+export async function getProducts(pageParam, { id }) {
   let url = "products";
   if (id) {
     url += "/" + id;
+  }
+  if (pageParam) {
+    url += `?pageNumber=${pageParam}&PageSize=12`;
   }
 
   const response = await axios.get(url, {
@@ -27,7 +30,6 @@ export async function getProducts({ id }) {
     throw error;
   }
   const { data } = response;
-
   return data;
 }
 
@@ -85,12 +87,16 @@ export async function updateProduct({ id, count }) {
   return data;
 }
 
-export async function getCategories() {
-  const { data, status } = await axios.get("categories").catch((err) => {
-    const error = new Error("An error occurred while fetching the categories");
-    error.code = err.response.status;
-    throw error;
-  });
+export async function getCategories(pageParam) {
+  const { data, status } = await axios
+    .get(`categories?pageNumber=${pageParam}&PageSize=12`)
+    .catch((err) => {
+      const error = new Error(
+        "An error occurred while fetching the categories"
+      );
+      error.code = err.response.status;
+      throw error;
+    });
 
   if (status === undefined) {
     const error = new Error("An error occurred while fetching the cart");
@@ -127,12 +133,14 @@ export async function getLoggedUserData() {
   return data;
 }
 
-export async function getBrands() {
-  const { data, status } = await axios.get("brands").catch((err) => {
-    const error = new Error(err.response.data);
-    error.code = err.response.status;
-    throw error;
-  });
+export async function getBrands(pageParam = 1) {
+  const { data, status } = await axios
+    .get(`brands?pageNumber=${pageParam}&PageSize=12`)
+    .catch((err) => {
+      const error = new Error(err.response.data);
+      error.code = err.response.status;
+      throw error;
+    });
 
   if (status === undefined) {
     const error = new Error("An error occurred while fetching the cart");

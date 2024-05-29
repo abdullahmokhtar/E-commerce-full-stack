@@ -2,19 +2,17 @@ import { useQuery } from "react-query";
 import { getBrands } from "../../util/http";
 import { Helmet } from "react-helmet";
 import { useState } from "react";
+import Pagination from "../Pagination/Pagination";
 
 const Brands = () => {
-  const [error, setError] = useState("");
+  const [error] = useState("");
+  const [page, setPage] = useState(1);
 
-  const { data, isLoading } = useQuery({
-    queryKey: ["brands"],
-    queryFn: async () => {
-      return await getBrands().catch((error) => {
-        setError("something went wrong while fetching brands");
-      });
-    },
+  const { data, isLoading, status } = useQuery({
+    queryKey: ["brands", page],
+    queryFn: () => getBrands(page),
+    keepPreviousData: true,
   });
-
   return (
     <>
       <Helmet>
@@ -32,9 +30,9 @@ const Brands = () => {
             <i className="fas fa-spinner fa-spin fa-2x py-5 my-5"></i>
           </div>
         )}
-        {!isLoading && (
+        {status === "success" && (
           <div className="row g-4">
-            {data?.map((brand) => (
+            {data?.data?.map((brand) => (
               <div key={brand?.id} className="col-md-3">
                 <div className="card">
                   <div className="card-img">
@@ -50,6 +48,12 @@ const Brands = () => {
                 </div>
               </div>
             ))}
+            <Pagination
+              decrementPage={() => setPage((prev) => prev - 1)}
+              incrementPage={() => setPage((prev) => prev + 1)}
+              pageNumber={data?.pageNumber}
+              totalPages={data?.totalPages}
+            />
           </div>
         )}
       </div>

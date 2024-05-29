@@ -64,7 +64,7 @@ const ProductDetails = () => {
 
   const { data, isError, isLoading } = useQuery({
     queryKey: ["productDetails", id],
-    queryFn: () => getProducts({ id }),
+    queryFn: () => getProducts(0,{ id }),
   });
 
   return (
