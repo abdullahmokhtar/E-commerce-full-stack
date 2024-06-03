@@ -6,6 +6,7 @@ import { QueryClient } from "react-query";
 axios.interceptors.request.use(function (config) {
   config.headers.Authorization = "Bearer " + Cookies.get("token");
   config.baseURL = "https://freshcart.runasp.net/api/";
+  // config.baseURL = "https://localhost:7189/api/";
   return config;
 });
 
@@ -87,9 +88,9 @@ export async function updateProduct({ id, count }) {
   return data;
 }
 
-export async function getCategories(pageParam = 1) {
+export async function getCategories() {
   const { data, status } = await axios
-    .get(`categories?pageNumber=${pageParam}&PageSize=12`)
+    .get(`categories?PageSize=12`)
     .catch((err) => {
       const error = new Error(
         "An error occurred while fetching the categories"
@@ -152,19 +153,11 @@ export async function getBrands(pageParam = 1) {
 }
 
 export async function getLoggedUserWishList() {
-  const { data, status } = await axios
-    .get("wishlist", {
-      headers: {
-        Authorization: "Bearer " + Cookies.get("token"),
-      },
-    })
-    .catch((err) => {
-      const error = new Error(
-        "An error occurred while fetching the categories"
-      );
-      error.code = err.response.status;
-      throw error;
-    });
+  const { data, status } = await axios.get("wishlist").catch((err) => {
+    const error = new Error("An error occurred while fetching the categories");
+    error.code = err.response.status;
+    throw error;
+  });
 
   if (status !== 200) {
     const error = new Error("An error occurred while fetching the cart");

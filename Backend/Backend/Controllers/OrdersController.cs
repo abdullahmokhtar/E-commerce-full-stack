@@ -1,5 +1,4 @@
 ﻿using Backend.API.Dtos.Orders;
-using Microsoft.Extensions.Options;
 using Stripe;
 using Stripe.Checkout;
 

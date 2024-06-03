@@ -22,15 +22,18 @@ const Cart = () => {
     onMutate: async (data) => {
       await queryClient.cancelQueries(["cart"]);
       const prevCart = queryClient.getQueryData(["cart"]);
-      if(data.count <=0)
-        {
-          mutate({id: prevCart.cartProducts[data.index].product.id});
-          return;
-        }
+      if (data.count <= 0) {
+        mutate({ id: prevCart.cartProducts[data.index].product.id });
+        return;
+      }
+      if (data.count > 20) return;
       const newCart = { ...prevCart };
       newCart.cartProducts[data.index].quantity = data.count;
-      newCart.totalCartPrice = prevCart.cartProducts.reduce((acc, curr) => (acc.product.price * acc.quantity) + (curr.product.price * curr.quantity));
-      queryClient.setQueryData(["cart"], newCart);
+      newCart.totalCartPrice = prevCart.cartProducts.reduce(
+        (acc, curr) =>
+          acc.product.price * acc.quantity + curr.product.price * curr.quantity
+      );
+      // await queryClient.setQueryData(["cart"], newCart);
       clearTimeout(timerId);
       timerId = setTimeout(() => {
         updateProduct({ id: data.productId, count: data.count });
@@ -70,7 +73,7 @@ const Cart = () => {
           </button>
           {data.cartProducts?.map((product, index) => (
             <div
-              key={product.product.id}
+              key={index}
               className="cart-product shadow rounded-2 my-3"
             >
               <div className="row align-items-center">
@@ -100,7 +103,7 @@ const Cart = () => {
                   <button
                     className="btn bg-danger text-white mb-2 mx-2"
                     onClick={() => {
-                      mutate({ id: product.product.id });
+                      mutate({ id: product?.product?.id });
                     }}
                   >
                     Remove
@@ -111,7 +114,7 @@ const Cart = () => {
                         updateProductCount({
                           index,
                           count: product.quantity - 1,
-                          productId: product.product.id,
+                          productId: product?.product?.id,
                         });
                       }}
                       className="btn bg-main text-white mx-2"
@@ -138,10 +141,7 @@ const Cart = () => {
           ))}
           {data?.totalCartPrice && (
             <div className="d-flex justify-content-between">
-              <Link
-                to={`/address`}
-                className="btn bg-main text-white"
-              >
+              <Link to={`/address`} className="btn bg-main text-white">
                 CheckOut
               </Link>
               <p>Total Cart Price: {data?.totalCartPrice} EGP</p>

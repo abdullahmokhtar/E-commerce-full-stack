@@ -1,24 +1,22 @@
-﻿using Backend.BLL;
-
-namespace Backend.API.Controllers
+﻿namespace Backend.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly ICategoryRepository _categoryRepository;
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
-        public CategoriesController(ICategoryRepository categoryRepository, IMapper mapper)
+        public CategoriesController(IUnitOfWork unitOfWork, IMapper mapper)
         {
-            _categoryRepository = categoryRepository;
+            _unitOfWork = unitOfWork;
             _mapper = mapper;
         }
         [HttpGet]
         public async Task<ActionResult<PagedResponseDto<CategoryDto>>> GetAll([FromQuery] QueryObject queryObject)
             => Ok(
                 _mapper.Map<PagedResponseDto<CategoryDto>>
-                (await _categoryRepository.GetAll(queryObject)));
+                (await _unitOfWork.CategoryRepository.GetAll(queryObject)));
 
         [HttpGet]
         [Route("{id:int}")]
@@ -26,7 +24,7 @@ namespace Backend.API.Controllers
         [ProducesResponseType(404)]
         public async Task<ActionResult<CategoryDto>> GetById(int id)
         {
-            var category = await _categoryRepository.GetById(id);
+            var category = await _unitOfWork.CategoryRepository.GetById(id);
             if (category is null) 
                 return NotFound("Category Not Found");
             return Ok(_mapper.Map<CategoryDto>(category));
@@ -35,6 +33,6 @@ namespace Backend.API.Controllers
         [HttpGet]
         [Route("{id:int}/SubCategories")]
         public async Task<ActionResult<IReadOnlyList<SubCategory>>> GetAllSubCategoriesFromCategoryId(int id)
-            =>  Ok(await _categoryRepository.GetAllSubCategoriesFromCategoryId(id));
+            =>  Ok(await _unitOfWork.CategoryRepository.GetAllSubCategoriesFromCategoryId(id));
     }
 }

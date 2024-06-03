@@ -35,7 +35,6 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
     opt.Password.RequireLowercase = true;
     opt.Password.RequireUppercase = true;
     opt.Password.RequireNonAlphanumeric = true;
-    //opt.Password.RequiredLength = 8;
 }).AddEntityFrameworkStores<AppDbContext>()
 .AddDefaultTokenProviders();
 
@@ -60,10 +59,7 @@ builder.Services.AddAuthentication(opt =>
     };
 });
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-builder.Services.AddScoped<ISubCategoryRepository, SubCategoryRepository>();
-builder.Services.AddScoped<IBrandRepository, BrandRepository>();
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IUserResetCodeRepository, UserResetCodeRepository>();
 builder.Services.AddScoped<IUserResetPasswordService, UserResetPasswordService>();

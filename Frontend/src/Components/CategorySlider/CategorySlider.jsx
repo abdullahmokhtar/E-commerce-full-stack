@@ -46,7 +46,7 @@ const CategorySlider = () => {
     <>
       <h3 className="fw-bold my-2">Shop Popular Categories</h3>
       <Slider  {...settings} className="mb-4">
-        {data?.map((category, index) => (
+        {data?.data?.map((category, index) => (
           <React.Fragment key={index}>
             <img
               className="w-100 px-1"

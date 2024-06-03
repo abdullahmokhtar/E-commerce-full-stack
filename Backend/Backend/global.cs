@@ -7,4 +7,6 @@ global using Backend.BLL.Interfaces;
 global using Backend.API.Extensions;
 global using Backend.DAL.Entities;
 global using Backend.API.Dtos;
+global using Backend.BLL;
+
 

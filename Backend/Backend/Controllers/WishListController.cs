@@ -7,17 +7,17 @@
     {
         private readonly IWishListRepository _wishListRepository;
         private readonly UserManager<AppUser> _userManager;
-        private readonly IProductRepository _productRepository;
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
         public WishListController(IWishListRepository wishListRepository
             , UserManager<AppUser> userManager
-            , IProductRepository productRepository,
+            , IUnitOfWork unitOfWork,
             IMapper mapper)
         {
             _wishListRepository = wishListRepository;
             _userManager = userManager;
-            _productRepository = productRepository;
+            _unitOfWork = unitOfWork;
             _mapper = mapper;
         }
 
@@ -36,7 +36,7 @@
             if (!ModelState.IsValid)
                 return BadRequest("Invalid Product Id");
             
-            var product = await _productRepository.GetById(model.ProductId);
+            var product = await _unitOfWork.ProductRepository.GetById(model.ProductId);
             if (product is null)
                 return NotFound("Product Not Found");
 
@@ -63,7 +63,7 @@
             if (productId <= 0)
                 return BadRequest("Invalid Product Id");
 
-            var product = await _productRepository.GetById(productId);
+            var product = await _unitOfWork.ProductRepository.GetById(productId);
             if (product is null)
                 return NotFound("Product Not Found");
 

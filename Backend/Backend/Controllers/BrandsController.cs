@@ -1,25 +1,23 @@
 ﻿using Backend.API.Dtos.Brands;
-using Backend.BLL;
 
 namespace Backend.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
     public class BrandsController : ControllerBase
     {
-        private readonly IBrandRepository _brandRepository;
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
-        public BrandsController(IBrandRepository brandRepository, IMapper mapper)
+        public BrandsController(IUnitOfWork unitOfWork, IMapper mapper)
         {
-            _brandRepository = brandRepository;
+            _unitOfWork = unitOfWork;
             _mapper = mapper;
         }
 
         [HttpGet]
         public async Task<ActionResult<PagedResponseDto<BrandDto>>> GetAll([FromQuery] QueryObject queryObject)
-            => Ok( _mapper.Map<PagedResponseDto<BrandDto>>(await _brandRepository.GetAll(queryObject)));
+            => Ok( _mapper.Map<PagedResponseDto<BrandDto>>(await _unitOfWork.BrandRepository.GetAll(queryObject)));
 
         [HttpGet]
         [Route("{id:int}")]
@@ -28,7 +26,7 @@ namespace Backend.API.Controllers
         [ProducesResponseType(401)]
         public async Task<ActionResult<BrandDto>> GetById(int id)
         {
-            var brand = await _brandRepository.GetById(id);
+            var brand = await _unitOfWork.BrandRepository.GetById(id);
             if (brand == null)
                 return NotFound("Brand Not Found");
             return Ok(_mapper.Map<BrandDto>(brand));
