@@ -27,7 +27,9 @@ const ProductDetails = () => {
 
   const addProductToCart = async () => {
     const response = await addProdToCart({ productId: id }).catch((err) => {
-      toast.error(err.response.data);
+       if (err.response.status === 401)
+         toast.error("You must login before adding product to wishlist");
+       else toast.error(err.response.data);
     });
     if (response) {
       toast.success(response.data);

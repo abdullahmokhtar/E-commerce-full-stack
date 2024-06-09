@@ -108,9 +108,9 @@ const router = createBrowserRouter([
       {
         path: "ProductDetails/:id",
         element: (
-          <ProtectedRoute>
+          // <ProtectedRoute>
             <ProductDetails />
-          </ProtectedRoute>
+          // </ProtectedRoute>
         ),
       },
       {
