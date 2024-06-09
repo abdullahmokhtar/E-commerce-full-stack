@@ -72,10 +72,7 @@ const Cart = () => {
             Clear Cart
           </button>
           {data.cartProducts?.map((product, index) => (
-            <div
-              key={index}
-              className="cart-product shadow rounded-2 my-3"
-            >
+            <div key={index} className="cart-product shadow rounded-2 my-3">
               <div className="row align-items-center">
                 <div className="col-md-2">
                   <img
@@ -144,7 +141,15 @@ const Cart = () => {
               <Link to={`/address`} className="btn bg-main text-white">
                 CheckOut
               </Link>
-              <p>Total Cart Price: {data?.totalCartPrice} EGP</p>
+              {/* <p>Total Cart Price: {data?.totalCartPrice} EGP</p> */}
+              <p>
+                Total Cart Price:{" "}
+                {data?.cartProducts?.reduce(
+                  (c, a) =>
+                    c.quantity * c.product.price + a.quantity * a.product.price
+                )}{" "}
+                EGP
+              </p>
             </div>
           )}
         </div>
