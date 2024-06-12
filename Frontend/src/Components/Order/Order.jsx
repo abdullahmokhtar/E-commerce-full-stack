@@ -6,7 +6,7 @@ import "./Order.css";
 
 const Order = () => {
   const { data, isLoading } = useQuery({
-    queryKey: ["wishlist"],
+    queryKey: ["order"],
     queryFn: getLoggedUserOrder,
   });
 

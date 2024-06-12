@@ -11,6 +11,14 @@ import {
 let timerId;
 
 const Cart = () => {
+
+const { data, isError, isLoading } = useQuery({
+  queryKey: ["cart"],
+  queryFn: getLoggedUserCart,
+});
+
+console.log(data);
+
   const { mutate, isLoading: isLoadingDeletion } = useMutation({
     mutationFn: deleteProduct,
     onSuccess: () => {
@@ -31,7 +39,7 @@ const Cart = () => {
       newCart.cartProducts[data.index].quantity = data.count;
       newCart.totalCartPrice = prevCart.cartProducts.reduce(
         (acc, curr) =>
-          acc.product.price * acc.quantity + curr.product.price * curr.quantity
+          acc.product?.price * acc.quantity + curr.product?.price * curr.quantity
       );
       // await queryClient.setQueryData(["cart"], newCart);
       clearTimeout(timerId);
@@ -42,10 +50,7 @@ const Cart = () => {
     },
   });
 
-  const { data, isError, isLoading } = useQuery({
-    queryKey: ["cart"],
-    queryFn: getLoggedUserCart,
-  });
+  
   return (
     <>
       <Helmet>
@@ -71,7 +76,7 @@ const Cart = () => {
           >
             Clear Cart
           </button>
-          {data.cartProducts?.map((product, index) => (
+          {data?.cartProducts?.map((product, index) => (
             <div key={index} className="cart-product shadow rounded-2 my-3">
               <div className="row align-items-center">
                 <div className="col-md-2">
@@ -85,15 +90,15 @@ const Cart = () => {
                   <h2>{product.product.name}</h2>
                   <h5>{product.product?.category?.name}</h5>
                   <p className="d-flex justify-content-between">
-                    <span>{product.product.price} EGP</span>
+                    <span>{product?.product?.price} EGP</span>
                     <span>
                       <i className="fas fa-star rating-color me-1"></i>{" "}
-                      {product.product.ratingsAverage}
+                      {product?.product?.ratingsAverage}
                     </span>
                   </p>
                   <p>
                     <span className="fw-bolder">Total Price:</span>{" "}
-                    {product.quantity * product.product.price} EGP
+                    {product?.quantity * product?.product?.price} EGP
                   </p>
                 </div>
                 <div className="col-md-2">
@@ -144,10 +149,19 @@ const Cart = () => {
               {/* <p>Total Cart Price: {data?.totalCartPrice} EGP</p> */}
               <p>
                 Total Cart Price:{" "}
-                {data?.cartProducts?.reduce(
-                  (c, a) =>
-                    c.quantity * c.product.price + a.quantity * a.product.price
-                )}{" "}
+                {isNaN(
+                  data?.cartProducts?.reduce(
+                    (c, a) =>
+                      c?.quantity * c?.product?.price +
+                      a?.quantity * a?.product?.price
+                  )
+                )
+                  ? data?.totalCartPrice
+                  : data?.cartProducts?.reduce(
+                      (c, a) =>
+                        c?.quantity * c?.product?.price +
+                        a?.quantity * a?.product?.price
+                    )}{" "}
                 EGP
               </p>
             </div>
