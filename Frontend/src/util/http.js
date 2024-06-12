@@ -12,6 +12,33 @@ axios.interceptors.request.use(function (config) {
 
 export const queryClient = new QueryClient();
 
+export async function getAllProducts() {
+  const response = await axios.get("products/all").catch((err) => {
+    const error = new Error("An error occurred while fetching the products");
+    error.code = err.response.status;
+    throw error;
+  });
+  return response.data;
+}
+
+export async function getAllOrders() {
+  const response = await axios.get("orders").catch((err) => {
+    const error = new Error("An error occurred while fetching the orders");
+    error.code = err.response.status;
+    throw error;
+  });
+  return response.data;
+}
+
+export async function getOrders(){
+  const response = await axios.get("orders/getorders").catch((err) => {
+    const error = new Error("An error occurred while fetching the orders");
+    error.code = err.response.status;
+    throw error;
+  });
+  return response.data;
+}
+
 export async function getProducts(pageParam, { id }) {
   let url = "products";
   if (id) {

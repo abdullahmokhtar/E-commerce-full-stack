@@ -17,6 +17,10 @@
         public async Task<ActionResult<PagedResponseDto<ProductDto>>> GetAll([FromQuery] QueryObject queryObject)
             => Ok( _mapper.Map<PagedResponseDto<ProductDto>>(await _unitOfWork.ProductRepository.GetAll(queryObject, "Brand","Category")));
 
+        [HttpGet("All")]
+        public async Task<ActionResult<IReadOnlyList<ProductDto>>> GetAllWithoutPagination()
+            => Ok(_mapper.Map<IReadOnlyList<ProductDto>>(await _unitOfWork.ProductRepository.GetAllWithoutPagination()));
+
         [HttpGet]
         [Route("{id:int}")]
         [ProducesResponseType(typeof(ProductDto), 200)]

@@ -77,6 +77,11 @@ const Navbar = () => {
                   My Orders
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link to="/stats" className="nav-link">
+                  Statistics
+                </Link>
+              </li>
             </ul>
           )}
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">

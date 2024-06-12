@@ -1,4 +1,5 @@
 ﻿using Backend.API.Dtos.Orders;
+using Backend.BLL.Repositories;
 using Stripe;
 using Stripe.Checkout;
 
@@ -126,6 +127,10 @@ namespace Backend.API.Controllers
 
             return Ok(session.Url);
         }
+
+        [HttpGet("GetOrders")]
+        public async Task<ActionResult<List<CategoryWith>>> GetOrders() =>
+            Ok(await _orderRepository.GetOrdderItems());
 
     }
 }

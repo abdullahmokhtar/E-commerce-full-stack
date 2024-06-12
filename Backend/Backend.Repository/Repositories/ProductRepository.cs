@@ -1,7 +1,16 @@
-﻿namespace Backend.BLL.Repositories
+﻿
+namespace Backend.BLL.Repositories
 {
     public class ProductRepository : GenericRepository<Product>, IProductRepository
     {
-        public ProductRepository(AppDbContext context) : base(context) { }
+        private readonly AppDbContext _context;
+
+        public ProductRepository(AppDbContext context) : base(context)
+        {
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Product>> GetAllWithoutPagination()
+            => await _context.Products.ToListAsync();
     }
 }

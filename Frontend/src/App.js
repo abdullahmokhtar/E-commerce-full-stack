@@ -26,6 +26,7 @@ import ResetPassword from "./Components/ResetPassword/ResetPassword";
 import UserData from "./Components/UserData/UserData";
 import ChangePassword from "./Components/ChangePassword/ChangePassword";
 import Order from "./Components/Order/Order";
+import Stat from "./Components/Stats/Stat";
 
 const router = createBrowserRouter([
   {
@@ -109,7 +110,7 @@ const router = createBrowserRouter([
         path: "ProductDetails/:id",
         element: (
           // <ProtectedRoute>
-            <ProductDetails />
+          <ProductDetails />
           // </ProtectedRoute>
         ),
       },
@@ -118,6 +119,14 @@ const router = createBrowserRouter([
         element: (
           <ProtectedRoute>
             <Order />
+          </ProtectedRoute>
+        ),
+      },
+      {
+        path: "stats",
+        element: (
+          <ProtectedRoute>
+            <Stat />
           </ProtectedRoute>
         ),
       },
